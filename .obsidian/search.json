@@ -1,0 +1,6 @@
+{
+  "searchOnFileNames": true,
+  "searchOnContent": true,
+  "regex": true,
+  "caseSensitive": false
+}
