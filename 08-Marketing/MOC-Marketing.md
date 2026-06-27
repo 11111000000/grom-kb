@@ -36,30 +36,30 @@ graph TD
 ## 📄 Страницы
 
 ### Запуск
-- [[Launch-Plan]] — план запуска нового сайта
+- [Launch-Plan](08-Marketing/Launch-Plan.md) — план запуска нового сайта
 
 ### Email
-- [[Email-Marketing]] — email-стратегия
-- [[Email-Sequences]] — цепочки писем
+- [Email-Marketing](08-Marketing/Email-Marketing.md) — email-стратегия
+- [Email-Sequences](Email-Sequences.md) — цепочки писем
 
 ### SMM
-- [[Social-Media]] — SMM-стратегия
-- [[VK-Strategy]] — ВКонтакте
-- [[Telegram-Strategy]] — Telegram
-- [[YouTube-Strategy]] — YouTube/RuTube
+- [Social-Media](08-Marketing/Social-Media.md) — SMM-стратегия
+- [VK-Strategy](VK-Strategy.md) — ВКонтакте
+- [Telegram-Strategy](Telegram-Strategy.md) — Telegram
+- [YouTube-Strategy](YouTube-Strategy.md) — YouTube/RuTube
 
 ### Реклама
-- [[Advertising]] — рекламная стратегия
-- [[Yandex-Direct]] — Яндекс.Директ
-- [[VK-Ads]] — VK Реклама
+- [Advertising](08-Marketing/Advertising.md) — рекламная стратегия
+- [Yandex-Direct](Yandex-Direct.md) — Яндекс.Директ
+- [VK-Ads](VK-Ads.md) — VK Реклама
 
 ### Партнёрства
-- [[Partnerships]] — партнёрства
-- [[Affiliate-Program]] — партнёрская программа
+- [Partnerships](Partnerships.md) — партнёрства
+- [Affiliate-Program](Affiliate-Program.md) — партнёрская программа
 
 ### Лояльность
-- [[Loyalty-Program]] — программа лояльности
-- [[Referral-Program]] — реферальная программа
+- [Loyalty-Program](Loyalty-Program.md) — программа лояльности
+- [Referral-Program](Referral-Program.md) — реферальная программа
 
 ---
 
@@ -125,10 +125,10 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [[../01-Project/MOC-Project]]
-- [[../03-Research/MOC-Research]]
-- [[../05-Content-Plan/MOC-Content]]
+- [../01-Project/MOC-Project](01-Project/MOC-Project.md)
+- [../03-Research/MOC-Research](03-Research/MOC-Research.md)
+- [../05-Content-Plan/MOC-Content](05-Content-Plan/MOC-Content.md)
 
 ---
 
-[[../README|⬅ Главная]]
+[⬅ Главная](00-Inbox/README.md)

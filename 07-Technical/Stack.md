@@ -224,9 +224,9 @@ Sitemap: https://xn--38-glc0bjl.xn--p1ai/sitemap.rss
 
 ## 🔗 Связанные документы
 
-- [[Performance]] — производительность
-- [[SEO-Tech]] — SEO-техника
-- [[Schema-Fix]] — фикс микроразметки
-- [[../02-Audit/Epistemic-Audit]] — коррекция данных
+- [Performance](07-Technical/Performance.md) — производительность
+- [SEO-Tech](07-Technical/SEO-Tech.md) — SEO-техника
+- [Schema-Fix](07-Technical/Schema-Fix.md) — фикс микроразметки
+- [../02-Audit/Epistemic-Audit](02-Audit/Epistemic-Audit.md) — коррекция данных
 
-[[MOC-Tech|⬅ MOC Tech]] | [[../README|⬅ Главная]]
+[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)

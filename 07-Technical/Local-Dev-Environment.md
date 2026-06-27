@@ -918,21 +918,21 @@ name = "grom-api-dev"
 vars = { ENVIRONMENT = "development" }
 
 # D1 (локальная SQLite)
-[[d1_databases]]
+[d1_databases](d1_databases.md)
 binding = "DB"
 database_name = "grom-db"
 database_id = "local-db-id"  # для dev не нужен
 # Для локальной работы Wrangler создаст SQLite в .wrangler/state/
 
 # R2 (S3 mock через MinIO)
-[[r2_buckets]]
+[r2_buckets](r2_buckets.md)
 binding = "FILES"
 bucket_name = "grom-files"
 # Локально Wrangler эмулирует R2 без MinIO,
 # но для интеграционных тестов можно использовать MinIO
 
 # Vectorize (локально in-memory)
-[[vectorize]]
+[vectorize](vectorize.md)
 binding = "VECTORIZE"
 
 # Workers AI (локально — Ollama proxy)
@@ -1200,9 +1200,9 @@ LOG_FORMAT=json
 
 ## 🔗 Связанные документы
 
-- [[Stack-Recommendation]] — финальный стек
-- [[Hosting-RF-Recommendation]] — Selectel
-- [[../09-Decisions/ADR-001]] — редизайн
-- [[ADR-008]] — финальное решение по стеку (нужно создать)
+- [Stack-Recommendation](Stack-Recommendation.md) — финальный стек
+- [Hosting-RF-Recommendation](07-Technical/Hosting-RF-Recommendation.md) — Selectel
+- [../09-Decisions/ADR-001](09-Decisions/ADR-001.md) — редизайн
+- [ADR-008](ADR-008.md) — финальное решение по стеку (нужно создать)
 
-[[MOC-Tech|⬅ MOC Tech]] | [[../README|⬅ Главная]]
+[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)

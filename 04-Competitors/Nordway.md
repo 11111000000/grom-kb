@@ -95,9 +95,9 @@
 
 ## 🔗 Связанные документы
 
-- [[SkatePRO]] — зарубежный конкурент
-- [[Izhevsk]] — локальный производитель
-- [[Competitor-Matrix]] — сводная таблица
-- [[Market-Map]] — карта рынка
+- [SkatePRO](04-Competitors/SkatePRO.md) — зарубежный конкурент
+- [Izhevsk](04-Competitors/Izhevsk.md) — локальный производитель
+- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md) — сводная таблица
+- [Market-Map](04-Competitors/Market-Map.md) — карта рынка
 
-[[MOC-Competitors|⬅ MOC Competitors]] | [[../README|⬅ Главная]]
+[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)

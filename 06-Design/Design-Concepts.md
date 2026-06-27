@@ -327,11 +327,11 @@
 
 ## 🔗 Связанные документы
 
-- [[Brand-Identity]] — айдентика
-- [[Color-Palette]] — палитра
-- [[Typography]] — шрифты
-- [[Homepage-Layout]] — главная
-- [[../09-Decisions/ADR-003]] — ребрендинг
-- [[../../03-Research/Personas]] — персоны
+- [Brand-Identity](06-Design/Brand-Identity.md) — айдентика
+- [Color-Palette](06-Design/Color-Palette.md) — палитра
+- [Typography](06-Design/Typography.md) — шрифты
+- [Homepage-Layout](06-Design/Homepage-Layout.md) — главная
+- [../09-Decisions/ADR-003](09-Decisions/ADR-003.md) — ребрендинг
+- [../../03-Research/Personas](03-Research/Personas.md) — персоны
 
-[[MOC-Design|⬅ MOC Design]] | [[../README|⬅ Главная]]
+[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)

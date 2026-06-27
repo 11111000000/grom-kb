@@ -24,11 +24,11 @@ graph TD
 ## 📄 Страницы
 
 ### Все ADR
-- [[Log]] — лог всех решений
-- [[ADR-001]] — редизайн: новый стек vs доработка WP
-- [[ADR-002]] — разделение бизнесов: 1 домен vs 2
-- [[ADR-003]] — брендинг: новый логотип
-- [[ADR-004]] — маркетплейсы: подключать или нет
+- [Log](09-Decisions/Log.md) — лог всех решений
+- [ADR-001](09-Decisions/ADR-001.md) — редизайн: новый стек vs доработка WP
+- [ADR-002](09-Decisions/ADR-002.md) — разделение бизнесов: 1 домен vs 2
+- [ADR-003](09-Decisions/ADR-003.md) — брендинг: новый логотип
+- [ADR-004](ADR-004.md) — маркетплейсы: подключать или нет
 
 ---
 
@@ -60,10 +60,10 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [[../01-Project/MOC-Project]]
-- [[../03-Research/MOC-Research]]
-- [[../06-Design/MOC-Design]]
+- [../01-Project/MOC-Project](01-Project/MOC-Project.md)
+- [../03-Research/MOC-Research](03-Research/MOC-Research.md)
+- [../06-Design/MOC-Design](06-Design/MOC-Design.md)
 
 ---
 
-[[../README|⬅ Главная]]
+[⬅ Главная](00-Inbox/README.md)

@@ -64,7 +64,7 @@
 ### 6. Schema.org ошибки
 **Проблема:** `UsedCondition` для новых товаров → Google может пессимизировать.
 
-**Решение:** см. [[Schema-Audit]].
+**Решение:** см. [Schema-Audit](02-Audit/Schema-Audit.md).
 
 **Срок:** 1 час
 
@@ -127,4 +127,4 @@
 - Email с опечаткой
 - robots.txt блокирует параметры
 
-[[../MOC-Audit|⬅ MOC Audit]] | [[../README|⬅ Главная]]
+[⬅ MOC Audit](02-Audit/MOC-Audit.md) | [⬅ Главная](00-Inbox/README.md)

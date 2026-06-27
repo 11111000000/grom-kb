@@ -240,10 +240,10 @@
 
 ## 🔗 Связанные документы
 
-- [[../03-Research/Tone-of-Voice]] — голос бренда
-- [[../Assortment]] — ассортимент
-- [[Blog-Topics]] — темы блога
-- [[Content-Calendar]] — календарь
-- [[../06-Design/Product-Page-Layout]] — макет
+- [../03-Research/Tone-of-Voice](03-Research/Tone-of-Voice.md) — голос бренда
+- [../Assortment](01-Project/Assortment.md) — ассортимент
+- [Blog-Topics](05-Content-Plan/Blog-Topics.md) — темы блога
+- [Content-Calendar](05-Content-Plan/Content-Calendar.md) — календарь
+- [../06-Design/Product-Page-Layout](06-Design/Product-Page-Layout.md) — макет
 
-[[MOC-Content|⬅ MOC Content]] | [[../README|⬅ Главная]]
+[⬅ MOC Content](05-Content-Plan/MOC-Content.md) | [⬅ Главная](00-Inbox/README.md)

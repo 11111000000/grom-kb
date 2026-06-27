@@ -114,11 +114,11 @@
 ## 📝 Использование
 
 ### Где применять
-- [[../06-Design/Brand-Identity]] — айдентика
-- [[../06-Design/Typography]] — шрифты
-- [[../06-Design/Color-Palette]] — цвета
-- [[05-Content-Plan/Product-Copy]] — копирайтинг
-- [[08-Marketing]] — все маркетинговые материалы
+- [../06-Design/Brand-Identity](06-Design/Brand-Identity.md) — айдентика
+- [../06-Design/Typography](06-Design/Typography.md) — шрифты
+- [../06-Design/Color-Palette](06-Design/Color-Palette.md) — цвета
+- [05-Content-Plan/Product-Copy](05-Content-Plan/Product-Copy.md) — копирайтинг
+- [08-Marketing](08-Marketing.md) — все маркетинговые материалы
 
 ### Чек-лист тональности
 - [ ] Не используем «уникальный», «премиум», «лучший»
@@ -132,10 +132,10 @@
 
 ## 🔗 Связанные документы
 
-- [[Positioning]]
-- [[Target-Audience]]
-- [[Personas]]
-- [[Tone-of-Voice]]
-- [[../06-Design/Brand-Identity]]
+- [Positioning](03-Research/Positioning.md)
+- [Target-Audience](03-Research/Target-Audience.md)
+- [Personas](03-Research/Personas.md)
+- [Tone-of-Voice](03-Research/Tone-of-Voice.md)
+- [../06-Design/Brand-Identity](06-Design/Brand-Identity.md)
 
-[[MOC-Research|⬅ MOC Research]] | [[../README|⬅ Главная]]
+[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)

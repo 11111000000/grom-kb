@@ -108,8 +108,8 @@
 
 ## 🔗 Связанные документы
 
-- [[Nordway]] — российский конкурент
-- [[Izhevsk]] — локальный производитель
-- [[Competitor-Matrix]] — сводная таблица
+- [Nordway](04-Competitors/Nordway.md) — российский конкурент
+- [Izhevsk](04-Competitors/Izhevsk.md) — локальный производитель
+- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md) — сводная таблица
 
-[[MOC-Competitors|⬅ MOC Competitors]] | [[../README|⬅ Главная]]
+[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)

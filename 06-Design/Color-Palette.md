@@ -158,9 +158,9 @@ Hover: лёгкая тень
 
 ## 🔗 Связанные документы
 
-- [[Brand-Identity]]
-- [[Typography]]
-- [[UI-Kit]]
-- [[../02-Audit/Visual-Audit|Visual Audit]]
+- [Brand-Identity](06-Design/Brand-Identity.md)
+- [Typography](06-Design/Typography.md)
+- [UI-Kit](06-Design/UI-Kit.md)
+- [Visual Audit](02-Audit/Visual-Audit.md)
 
-[[MOC-Design|⬅ MOC Design]] | [[../README|⬅ Главная]]
+[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)

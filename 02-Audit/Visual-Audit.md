@@ -149,9 +149,9 @@
 
 ## 🔗 Связанные документы
 
-- [[../06-Design/Brand-Identity|Айдентика]]
-- [[../06-Design/Color-Palette|Палитра]]
-- [[../06-Design/Typography|Типографика]]
-- [[../06-Design/UI-Kit|UI-кит]]
+- [Айдентика](06-Design/Brand-Identity.md)
+- [Палитра](06-Design/Color-Palette.md)
+- [Типографика](06-Design/Typography.md)
+- [UI-кит](06-Design/UI-Kit.md)
 
-[[MOC-Audit|⬅ MOC Audit]] | [[../README|⬅ Главная]]
+[⬅ MOC Audit](02-Audit/MOC-Audit.md) | [⬅ Главная](00-Inbox/README.md)

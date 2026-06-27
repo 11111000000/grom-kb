@@ -35,29 +35,29 @@ graph TD
 ## 📄 Страницы
 
 ### Брендинг
-- [[Brand-Identity]] — айдентика
-- [[Color-Palette]] — цвета
-- [[Typography]] — шрифты
-- [[Logo-Versions]] — версии логотипа
-- [[Brand-Voice]] — голос бренда
+- [Brand-Identity](06-Design/Brand-Identity.md) — айдентика
+- [Color-Palette](06-Design/Color-Palette.md) — цвета
+- [Typography](06-Design/Typography.md) — шрифты
+- [Logo-Versions](Logo-Versions.md) — версии логотипа
+- [Brand-Voice](Brand-Voice.md) — голос бренда
 
 ### UI
-- [[UI-Kit]] — компоненты
-- [[Buttons]] — кнопки
-- [[Forms]] — формы
-- [[Cards]] — карточки
-- [[Navigation]] — навигация
+- [UI-Kit](06-Design/UI-Kit.md) — компоненты
+- [Buttons](Buttons.md) — кнопки
+- [Forms](Forms.md) — формы
+- [Cards](Cards.md) — карточки
+- [Navigation](Navigation.md) — навигация
 
 ### Макеты
-- [[Homepage-Layout]] — главная
-- [[Product-Page-Layout]] — карточка
-- [[Category-Page-Layout]] — каталог
-- [[Landing-Layout]] — лендинг
+- [Homepage-Layout](06-Design/Homepage-Layout.md) — главная
+- [Product-Page-Layout](06-Design/Product-Page-Layout.md) — карточка
+- [Category-Page-Layout](06-Design/Category-Page-Layout.md) — каталог
+- [Landing-Layout](Landing-Layout.md) — лендинг
 
 ### Графика
-- [[Photography-Guidelines]] — фото-гайдлайн
-- [[Iconography]] — иконки
-- [[Illustrations]] — иллюстрации
+- [Photography-Guidelines](Photography-Guidelines.md) — фото-гайдлайн
+- [Iconography](Iconography.md) — иконки
+- [Illustrations](Illustrations.md) — иллюстрации
 
 ---
 
@@ -89,11 +89,11 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [[../01-Project/MOC-Project]]
-- [[../03-Research/Brand-Platform]]
-- [[../06-Design/Brand-Identity]]
-- [[../07-Technical/MOC-Tech]]
+- [../01-Project/MOC-Project](01-Project/MOC-Project.md)
+- [../03-Research/Brand-Platform](03-Research/Brand-Platform.md)
+- [../06-Design/Brand-Identity](06-Design/Brand-Identity.md)
+- [../07-Technical/MOC-Tech](07-Technical/MOC-Tech.md)
 
 ---
 
-[[../README|⬅ Главная]]
+[⬅ Главная](00-Inbox/README.md)

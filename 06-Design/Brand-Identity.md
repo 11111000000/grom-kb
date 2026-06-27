@@ -177,10 +177,10 @@ Desktop: max-width 1280px, по центру
 
 ## 🔗 Связанные документы
 
-- [[Color-Palette]] — детали палитры
-- [[Typography]] — детали шрифтов
-- [[Logo-Versions]] — версии лого
-- [[Brand-Voice]] — голос бренда
-- [[UI-Kit]] — компоненты
+- [Color-Palette](06-Design/Color-Palette.md) — детали палитры
+- [Typography](06-Design/Typography.md) — детали шрифтов
+- [Logo-Versions](Logo-Versions.md) — версии лого
+- [Brand-Voice](Brand-Voice.md) — голос бренда
+- [UI-Kit](06-Design/UI-Kit.md) — компоненты
 
-[[MOC-Design|⬅ MOC Design]] | [[../README|⬅ Главная]]
+[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)

@@ -187,11 +187,11 @@
 
 ## 🔗 Связанные документы
 
-- [[Goals]] — цели и метрики
-- [[Assortment]] — детальная таблица SKU
-- [[../03-Research/Target-Audience|Целевая аудитория]]
-- [[../03-Research/Positioning|Позиционирование]]
-- [[../02-Audit/Epistemic-Audit]] — коррекция ошибок исследования
-- [[ADR-002]] — про разделение бизнесов
+- [Goals](01-Project/Goals.md) — цели и метрики
+- [Assortment](01-Project/Assortment.md) — детальная таблица SKU
+- [Целевая аудитория](03-Research/Target-Audience.md)
+- [Позиционирование](03-Research/Positioning.md)
+- [../02-Audit/Epistemic-Audit](02-Audit/Epistemic-Audit.md) — коррекция ошибок исследования
+- [ADR-002](09-Decisions/ADR-002.md) — про разделение бизнесов
 
-[[MOC-Project|⬅ MOC Project]] | [[../README|⬅ Главная]]
+[⬅ MOC Project](01-Project/MOC-Project.md) | [⬅ Главная](00-Inbox/README.md)

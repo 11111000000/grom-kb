@@ -95,10 +95,10 @@
 
 ## 🔗 Связанные документы
 
-- [[Market-Trends]]
-- [[SWOT-GROM]]
-- [[Competitor-Matrix]]
-- [[Pricing-Analysis]]
-- [[../03-Research/Analytics-Dashboard]]
+- [Market-Trends](04-Competitors/Market-Trends.md)
+- [SWOT-GROM](04-Competitors/SWOT-GROM.md)
+- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md)
+- [Pricing-Analysis](04-Competitors/Pricing-Analysis.md)
+- [../03-Research/Analytics-Dashboard](03-Research/Analytics-Dashboard.md)
 
-[[MOC-Competitors|⬅ MOC Competitors]] | [[../README|⬅ Главная]]
+[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)

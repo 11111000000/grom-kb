@@ -40,19 +40,19 @@ graph TD
 ## 📄 Страницы раздела
 
 ### Коррекция
-- [[Epistemic-Audit]] — **НОВОЕ**: проверка всех чисел и фактов исследования
+- [Epistemic-Audit](02-Audit/Epistemic-Audit.md) — **НОВОЕ**: проверка всех чисел и фактов исследования
 
 ### Все виды аудита
-- [[Technical-Audit]] — стек, плагины, производительность
-- [[UX-Audit]] — навигация, кнопки, формы, поток покупки
-- [[SEO-Audit]] — мета-теги, h1-h6, alt, перелинковка
-- [[Content-Audit]] — описания, тексты, медиа
-- [[Visual-Audit]] — дизайн, цвета, типографика, логотип
-- [[Schema-Audit]] — JSON-LD, микроразметка
+- [Technical-Audit](02-Audit/Technical-Audit.md) — стек, плагины, производительность
+- [UX-Audit](02-Audit/UX-Audit.md) — навигация, кнопки, формы, поток покупки
+- [SEO-Audit](02-Audit/SEO-Audit.md) — мета-теги, h1-h6, alt, перелинковка
+- [Content-Audit](02-Audit/Content-Audit.md) — описания, тексты, медиа
+- [Visual-Audit](02-Audit/Visual-Audit.md) — дизайн, цвета, типографика, логотип
+- [Schema-Audit](02-Audit/Schema-Audit.md) — JSON-LD, микроразметка
 
 ### Проблемы
-- [[Bugs-Баги]] — единый список багов по приоритету (обновлено: 26 багов)
-- [[Critical-Issues]] — критические (обновлено)
+- [Bugs-Баги](02-Audit/Bugs-Баги.md) — единый список багов по приоритету (обновлено: 26 багов)
+- [Critical-Issues](02-Audit/Critical-Issues.md) — критические (обновлено)
 
 ---
 
@@ -87,11 +87,11 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [[../01-Project/MOC-Project|Project]]
-- [[../03-Research/MOC-Research|Research]]
-- [[../07-Technical/MOC-Tech|Technical backlog]]
-- [[../09-Decisions/MOC-Decisions|Decisions]]
+- [Project](01-Project/MOC-Project.md)
+- [Research](03-Research/MOC-Research.md)
+- [Technical backlog](07-Technical/MOC-Tech.md)
+- [Decisions](09-Decisions/MOC-Decisions.md)
 
 ---
 
-[[../README|⬅ Главная]]
+[⬅ Главная](00-Inbox/README.md)

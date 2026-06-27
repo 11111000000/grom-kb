@@ -262,10 +262,10 @@ Drag-handle: 4px × 40px, #dce8ef, центрирован
 
 ## 🔗 Связанные документы
 
-- [[Brand-Identity]]
-- [[Color-Palette]]
-- [[Typography]]
-- [[Buttons]] — детально
-- [[Forms]] — детально
+- [Brand-Identity](06-Design/Brand-Identity.md)
+- [Color-Palette](06-Design/Color-Palette.md)
+- [Typography](06-Design/Typography.md)
+- [Buttons](Buttons.md) — детально
+- [Forms](Forms.md) — детально
 
-[[MOC-Design|⬅ MOC Design]] | [[../README|⬅ Главная]]
+[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)

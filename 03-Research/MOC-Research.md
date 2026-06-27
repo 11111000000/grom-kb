@@ -34,17 +34,17 @@ graph TD
 
 ## 📄 Страницы
 
-- [[Target-Audience]] — кто наш клиент
-- [[Personas]] — 3-4 персоны
-- [[Customer-Journey]] — путь клиента
-- [[Market-Size]] — объём рынка
-- [[Market-Trends]] — тренды зимнего outdoor
-- [[Positioning]] — где мы на карте
-- [[Value-Proposition]] — УТП
-- [[Brand-Platform]] — бренд-платформа
-- [[Tone-of-Voice]] — голос бренда
-- [[Analytics-Dashboard]] — дашборд метрик
-- [[User-Interviews]] — интервью с клиентами (шаблон)
+- [Target-Audience](03-Research/Target-Audience.md) — кто наш клиент
+- [Personas](03-Research/Personas.md) — 3-4 персоны
+- [Customer-Journey](03-Research/Customer-Journey.md) — путь клиента
+- [Market-Size](04-Competitors/Market-Size.md) — объём рынка
+- [Market-Trends](04-Competitors/Market-Trends.md) — тренды зимнего outdoor
+- [Positioning](03-Research/Positioning.md) — где мы на карте
+- [Value-Proposition](03-Research/Value-Proposition.md) — УТП
+- [Brand-Platform](03-Research/Brand-Platform.md) — бренд-платформа
+- [Tone-of-Voice](03-Research/Tone-of-Voice.md) — голос бренда
+- [Analytics-Dashboard](03-Research/Analytics-Dashboard.md) — дашборд метрик
+- [User-Interviews](User-Interviews.md) — интервью с клиентами (шаблон)
 
 ---
 
@@ -66,10 +66,10 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [[../01-Project/MOC-Project|Project]]
-- [[../02-Audit/MOC-Audit|Audit]]
-- [[../04-Competitors/MOC-Competitors|Конкуренты]]
+- [Project](01-Project/MOC-Project.md)
+- [Audit](02-Audit/MOC-Audit.md)
+- [Конкуренты](04-Competitors/MOC-Competitors.md)
 
 ---
 
-[[../README|⬅ Главная]]
+[⬅ Главная](00-Inbox/README.md)

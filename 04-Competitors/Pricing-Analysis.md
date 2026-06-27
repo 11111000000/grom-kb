@@ -106,9 +106,9 @@
 
 ## 🔗 Связанные документы
 
-- [[Competitor-Matrix]]
-- [[Market-Map]]
-- [[../01-Project/Business-Model]]
-- [[../01-Project/Goals]]
+- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md)
+- [Market-Map](04-Competitors/Market-Map.md)
+- [../01-Project/Business-Model](01-Project/Business-Model.md)
+- [../01-Project/Goals](01-Project/Goals.md)
 
-[[MOC-Competitors|⬅ MOC Competitors]] | [[../README|⬅ Главная]]
+[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)

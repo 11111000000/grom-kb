@@ -204,9 +204,9 @@ A: У нас есть [калькулятор размера].
 
 ## 🔗 Связанные документы
 
-- [[Homepage-Layout]]
-- [[Product-Page-Layout]]
-- [[UI-Kit]]
-- [[../04-Competitors/SkatePRO|SkatePRO UX]]
+- [Homepage-Layout](06-Design/Homepage-Layout.md)
+- [Product-Page-Layout](06-Design/Product-Page-Layout.md)
+- [UI-Kit](06-Design/UI-Kit.md)
+- [SkatePRO UX](04-Competitors/SkatePRO.md)
 
-[[MOC-Design|⬅ MOC Design]] | [[../README|⬅ Главная]]
+[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)

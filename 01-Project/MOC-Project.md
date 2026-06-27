@@ -33,28 +33,28 @@ graph TD
 ## 📄 Страницы раздела
 
 ### Бизнес
-- [[Business-Model]] — двойная бизнес-модель: производство + турагентство
-- [[Assortment]] — описание всех 6 SKU
-- [[Pricing]] — ценовая политика
-- [[Geography]] — география и логистика
+- [Business-Model](01-Project/Business-Model.md) — двойная бизнес-модель: производство + турагентство
+- [Assortment](01-Project/Assortment.md) — описание всех 6 SKU
+- [Pricing](Pricing.md) — ценовая политика
+- [Geography](Geography.md) — география и логистика
 
 ### Цели
-- [[Goals]] — цели, KPI, метрики успеха
-- [[Success-Criteria]] — критерии успеха проекта
+- [Goals](01-Project/Goals.md) — цели, KPI, метрики успеха
+- [Success-Criteria](Success-Criteria.md) — критерии успеха проекта
 
 ### Команда
-- [[Team-Roles]] — кто за что отвечает
-- [[Stakeholders]] — стейкхолдеры
+- [Team-Roles](Team-Roles.md) — кто за что отвечает
+- [Stakeholders](Stakeholders.md) — стейкхолдеры
 
 ---
 
 ## 🔗 Связанные MOC
 
-- [[../02-Audit/MOC-Audit|Аудит]]
-- [[../03-Research/MOC-Research|Исследования]]
-- [[../06-Design/MOC-Design|Дизайн]]
-- [[../09-Decisions/MOC-Decisions|Решения]]
+- [Аудит](02-Audit/MOC-Audit.md)
+- [Исследования](03-Research/MOC-Research.md)
+- [Дизайн](06-Design/MOC-Design.md)
+- [Решения](09-Decisions/MOC-Decisions.md)
 
 ---
 
-[[../README|⬅ На главную]]
+[⬅ На главную](00-Inbox/README.md)

@@ -30,20 +30,20 @@ graph TD
 ## 📄 Страницы
 
 ### Товары
-- [[Product-Copy]] — описания всех 6 SKU
-- [[Category-Texts]] — тексты категорий
+- [Product-Copy](05-Content-Plan/Product-Copy.md) — описания всех 6 SKU
+- [Category-Texts](Category-Texts.md) — тексты категорий
 
 ### Блог
-- [[Blog-Topics]] — пул тем (50+)
-- [[Content-Calendar]] — календарь публикаций
+- [Blog-Topics](05-Content-Plan/Blog-Topics.md) — пул тем (50+)
+- [Content-Calendar](05-Content-Plan/Content-Calendar.md) — календарь публикаций
 
 ### Соцсети
-- [[Social-Strategy]] — стратегия SMM
-- [[Content-Pillars]] — 5 рубрик контента
+- [Social-Strategy](Social-Strategy.md) — стратегия SMM
+- [Content-Pillars](05-Content-Plan/Content-Pillars.md) — 5 рубрик контента
 
 ### Прочее
-- [[Landing-Pages]] — лендинги под рекламу
-- [[Email-Sequences]] — цепочки писем
+- [Landing-Pages](Landing-Pages.md) — лендинги под рекламу
+- [Email-Sequences](Email-Sequences.md) — цепочки писем
 
 ---
 
@@ -86,10 +86,10 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [[../01-Project/MOC-Project]]
-- [[../03-Research/MOC-Research]]
-- [[../08-Marketing/MOC-Marketing]]
+- [../01-Project/MOC-Project](01-Project/MOC-Project.md)
+- [../03-Research/MOC-Research](03-Research/MOC-Research.md)
+- [../08-Marketing/MOC-Marketing](08-Marketing/MOC-Marketing.md)
 
 ---
 
-[[../README|⬅ Главная]]
+[⬅ Главная](00-Inbox/README.md)

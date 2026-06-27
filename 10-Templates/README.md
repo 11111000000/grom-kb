@@ -6,12 +6,12 @@
 
 ## 📄 Доступные шаблоны
 
-- [[TPL-Audit]] — шаблон аудита страницы
-- [[TPL-Competitor]] — шаблон анализа конкурента
-- [[TPL-Decision]] — шаблон ADR
-- [[TPL-Task]] — шаблон задачи
-- [[TPL-Meeting]] — шаблон встречи
-- [[TPL-Persona]] — шаблон персоны
+- [TPL-Audit](10-Templates/TPL-Audit.md) — шаблон аудита страницы
+- [TPL-Competitor](10-Templates/TPL-Competitor.md) — шаблон анализа конкурента
+- [TPL-Decision](10-Templates/TPL-Decision.md) — шаблон ADR
+- [TPL-Task](10-Templates/TPL-Task.md) — шаблон задачи
+- [TPL-Meeting](10-Templates/TPL-Meeting.md) — шаблон встречи
+- [TPL-Persona](10-Templates/TPL-Persona.md) — шаблон персоны
 
 ---
 
@@ -24,4 +24,4 @@
 
 ---
 
-[[../README|⬅ Главная]]
+[⬅ Главная](00-Inbox/README.md)

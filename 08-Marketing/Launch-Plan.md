@@ -216,10 +216,10 @@
 
 ## 🔗 Связанные документы
 
-- [[../01-Project/Goals]]
-- [[Email-Marketing]]
-- [[Advertising]]
-- [[Social-Media]]
-- [[../05-Content-Plan/Content-Calendar|Контент-календарь]]
+- [../01-Project/Goals](01-Project/Goals.md)
+- [Email-Marketing](08-Marketing/Email-Marketing.md)
+- [Advertising](08-Marketing/Advertising.md)
+- [Social-Media](08-Marketing/Social-Media.md)
+- [Контент-календарь](05-Content-Plan/Content-Calendar.md)
 
-[[MOC-Marketing|⬅ MOC Marketing]] | [[../README|⬅ Главная]]
+[⬅ MOC Marketing](08-Marketing/MOC-Marketing.md) | [⬅ Главная](00-Inbox/README.md)

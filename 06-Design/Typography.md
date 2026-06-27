@@ -198,8 +198,8 @@ Placeholder: Inter Regular 400, 16px, #6e8b9e
 
 ## 🔗 Связанные документы
 
-- [[Brand-Identity]]
-- [[Color-Palette]]
-- [[UI-Kit]]
+- [Brand-Identity](06-Design/Brand-Identity.md)
+- [Color-Palette](06-Design/Color-Palette.md)
+- [UI-Kit](06-Design/UI-Kit.md)
 
-[[MOC-Design|⬅ MOC Design]] | [[../README|⬅ Главная]]
+[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)

@@ -172,9 +172,9 @@
 
 ## 🔗 Связанные документы
 
-- [[../01-Project/Goals]]
-- [[../07-Technical/MOC-Tech]]
-- [[Positioning]]
-- [[../08-Marketing/Launch-Plan]]
+- [../01-Project/Goals](01-Project/Goals.md)
+- [../07-Technical/MOC-Tech](07-Technical/MOC-Tech.md)
+- [Positioning](03-Research/Positioning.md)
+- [../08-Marketing/Launch-Plan](08-Marketing/Launch-Plan.md)
 
-[[MOC-Research|⬅ MOC Research]] | [[../README|⬅ Главная]]
+[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)

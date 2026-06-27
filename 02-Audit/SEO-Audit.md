@@ -182,10 +182,10 @@
 
 ## 🔗 Связанные документы
 
-- [[Technical-Audit]] — технические баги
-- [[Schema-Audit]] — подробно по микроразметке
-- [[Content-Audit]] — контент-пробелы
-- [[../07-Technical/SEO-Tech|SEO-техника]]
-- [[../05-Content-Plan/Blog-Topics|Темы для блога]]
+- [Technical-Audit](02-Audit/Technical-Audit.md) — технические баги
+- [Schema-Audit](02-Audit/Schema-Audit.md) — подробно по микроразметке
+- [Content-Audit](02-Audit/Content-Audit.md) — контент-пробелы
+- [SEO-техника](07-Technical/SEO-Tech.md)
+- [Темы для блога](05-Content-Plan/Blog-Topics.md)
 
-[[MOC-Audit|⬅ MOC Audit]] | [[../README|⬅ Главная]]
+[⬅ MOC Audit](02-Audit/MOC-Audit.md) | [⬅ Главная](00-Inbox/README.md)

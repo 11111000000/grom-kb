@@ -123,9 +123,9 @@
 
 ## 🔗 Связанные документы
 
-- [[Brand-Platform]]
-- [[Positioning]]
-- [[../05-Content-Plan/Product-Copy|Копирайтинг]]
-- [[../05-Content-Plan/Blog-Topics|Темы блога]]
+- [Brand-Platform](03-Research/Brand-Platform.md)
+- [Positioning](03-Research/Positioning.md)
+- [Копирайтинг](05-Content-Plan/Product-Copy.md)
+- [Темы блога](05-Content-Plan/Blog-Topics.md)
 
-[[MOC-Research|⬅ MOC Research]] | [[../README|⬅ Главная]]
+[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)

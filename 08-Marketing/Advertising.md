@@ -146,9 +146,9 @@
 
 ## 🔗 Связанные документы
 
-- [[Launch-Plan]]
-- [[Yandex-Direct]]
-- [[VK-Ads]]
-- [[Social-Media]]
+- [Launch-Plan](08-Marketing/Launch-Plan.md)
+- [Yandex-Direct](Yandex-Direct.md)
+- [VK-Ads](VK-Ads.md)
+- [Social-Media](08-Marketing/Social-Media.md)
 
-[[MOC-Marketing|⬅ MOC Marketing]] | [[../README|⬅ Главная]]
+[⬅ MOC Marketing](08-Marketing/MOC-Marketing.md) | [⬅ Главная](00-Inbox/README.md)

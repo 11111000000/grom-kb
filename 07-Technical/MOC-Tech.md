@@ -36,29 +36,29 @@ graph TD
 ## 📄 Страницы
 
 ### Архитектура
-- [[Stack]] — стек технологий
-- [[Hosting]] — хостинг
-- [[Backup-Strategy]] — бэкапы
+- [Stack](07-Technical/Stack.md) — стек технологий
+- [Hosting](Hosting.md) — хостинг
+- [Backup-Strategy](Backup-Strategy.md) — бэкапы
 
 ### Производительность
-- [[Performance]] — оптимизация скорости
-- [[Image-Optimization]] — оптимизация изображений
-- [[Caching]] — кэширование
+- [Performance](07-Technical/Performance.md) — оптимизация скорости
+- [Image-Optimization](Image-Optimization.md) — оптимизация изображений
+- [Caching](Caching.md) — кэширование
 
 ### SEO-техника
-- [[SEO-Tech]] — техническое SEO
-- [[Schema-Fix]] — фикс Schema.org
-- [[Sitemap-Robots]] — sitemap и robots
+- [SEO-Tech](07-Technical/SEO-Tech.md) — техническое SEO
+- [Schema-Fix](07-Technical/Schema-Fix.md) — фикс Schema.org
+- [Sitemap-Robots](Sitemap-Robots.md) — sitemap и robots
 
 ### Безопасность
-- [[Security]] — меры безопасности
-- [[Backups]] — резервное копирование
+- [Security](Security.md) — меры безопасности
+- [Backups](Backups.md) — резервное копирование
 
 ### Интеграции
-- [[Robokassa]] — платёжная система
-- [[Delivery-Integration]] — доставка (СДЭК)
-- [[Email-Integration]] — email-сервис
-- [[Analytics-Setup]] — настройка аналитики
+- [Robokassa](Robokassa.md) — платёжная система
+- [Delivery-Integration](Delivery-Integration.md) — доставка (СДЭК)
+- [Email-Integration](Email-Integration.md) — email-сервис
+- [Analytics-Setup](Analytics-Setup.md) — настройка аналитики
 
 ---
 
@@ -87,9 +87,9 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [[../02-Audit/MOC-Audit|Аудит]]
-- [[../01-Project/MOC-Project|Проект]]
+- [Аудит](02-Audit/MOC-Audit.md)
+- [Проект](01-Project/MOC-Project.md)
 
 ---
 
-[[../README|⬅ Главная]]
+[⬅ Главная](00-Inbox/README.md)

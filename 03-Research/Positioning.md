@@ -134,10 +134,10 @@
 
 ## 🔗 Связанные документы
 
-- [[Target-Audience]]
-- [[Personas]]
-- [[Value-Proposition]]
-- [[Brand-Platform]]
-- [[../04-Competitors/MOC-Competitors|Конкуренты]]
+- [Target-Audience](03-Research/Target-Audience.md)
+- [Personas](03-Research/Personas.md)
+- [Value-Proposition](03-Research/Value-Proposition.md)
+- [Brand-Platform](03-Research/Brand-Platform.md)
+- [Конкуренты](04-Competitors/MOC-Competitors.md)
 
-[[MOC-Research|⬅ MOC Research]] | [[../README|⬅ Главная]]
+[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)

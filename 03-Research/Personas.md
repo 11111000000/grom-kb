@@ -177,9 +177,9 @@
 
 ## 🔗 Связанные документы
 
-- [[Target-Audience]] — обзор аудитории
-- [[Customer-Journey]] — путь клиента
-- [[Positioning]] — позиционирование
-- [[../08-Marketing/Launch-Plan|План запуска]]
+- [Target-Audience](03-Research/Target-Audience.md) — обзор аудитории
+- [Customer-Journey](03-Research/Customer-Journey.md) — путь клиента
+- [Positioning](03-Research/Positioning.md) — позиционирование
+- [План запуска](08-Marketing/Launch-Plan.md)
 
-[[MOC-Research|⬅ MOC Research]] | [[../README|⬅ Главная]]
+[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)

@@ -141,10 +141,10 @@
 
 ## 🔗 Связанные документы
 
-- [[Product-Copy]]
-- [[Blog-Topics]]
-- [[Content-Pillars]]
-- [[../08-Marketing/Launch-Plan|План запуска]]
-- [[../08-Marketing/Email-Marketing|Email]]
+- [Product-Copy](05-Content-Plan/Product-Copy.md)
+- [Blog-Topics](05-Content-Plan/Blog-Topics.md)
+- [Content-Pillars](05-Content-Plan/Content-Pillars.md)
+- [План запуска](08-Marketing/Launch-Plan.md)
+- [Email](08-Marketing/Email-Marketing.md)
 
-[[MOC-Content|⬅ MOC Content]] | [[../README|⬅ Главная]]
+[⬅ MOC Content](05-Content-Plan/MOC-Content.md) | [⬅ Главная](00-Inbox/README.md)

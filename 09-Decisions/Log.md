@@ -42,7 +42,7 @@
 
 ### Решение
 - Проверить все числа и факты по исходному коду
-- Создать [[../02-Audit/Epistemic-Audit|Epistemic-Audit.md]] с коррекциями
+- Создать [Epistemic-Audit.md](02-Audit/Epistemic-Audit.md) с коррекциями
 
 ### Найденные расхождения
 
@@ -148,10 +148,10 @@
 
 ## 🔗 Связанные документы
 
-- [[ADR-001]] — редизайн
-- [[ADR-002]] — разделение бизнесов
-- [[ADR-003]] — ребрендинг
-- [[../02-Audit/Epistemic-Audit|Epistemic-Audit]] — коррекция исследования
-- [[../01-Project/MOC-Project]]
+- [ADR-001](09-Decisions/ADR-001.md) — редизайн
+- [ADR-002](09-Decisions/ADR-002.md) — разделение бизнесов
+- [ADR-003](09-Decisions/ADR-003.md) — ребрендинг
+- [Epistemic-Audit](02-Audit/Epistemic-Audit.md) — коррекция исследования
+- [../01-Project/MOC-Project](01-Project/MOC-Project.md)
 
-[[MOC-Decisions|⬅ MOC Decisions]] | [[../README|⬅ Главная]]
+[⬅ MOC Decisions](09-Decisions/MOC-Decisions.md) | [⬅ Главная](00-Inbox/README.md)

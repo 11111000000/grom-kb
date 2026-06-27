@@ -441,9 +441,9 @@
 
 ## 🔗 Связанные документы
 
-- [[../07-Technical/Stack]] — текущий стек
-- [[../09-Decisions/ADR-001]] — редизайн
-- [[Stack-Comparison]] — детальное сравнение
-- [[Stack-Recommendation]] — финальная рекомендация (после обсуждения)
+- [../07-Technical/Stack](07-Technical/Stack.md) — текущий стек
+- [../09-Decisions/ADR-001](09-Decisions/ADR-001.md) — редизайн
+- [Stack-Comparison](Stack-Comparison.md) — детальное сравнение
+- [Stack-Recommendation](Stack-Recommendation.md) — финальная рекомендация (после обсуждения)
 
-[[MOC-Tech|⬅ MOC Tech]] | [[../README|⬅ Главная]]
+[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)

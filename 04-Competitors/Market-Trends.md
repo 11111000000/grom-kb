@@ -163,9 +163,9 @@
 
 ## 🔗 Связанные документы
 
-- [[Market-Size]]
-- [[SWOT-GROM]]
-- [[Competitor-Matrix]]
-- [[../03-Research/Target-Audience]]
+- [Market-Size](04-Competitors/Market-Size.md)
+- [SWOT-GROM](04-Competitors/SWOT-GROM.md)
+- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md)
+- [../03-Research/Target-Audience](03-Research/Target-Audience.md)
 
-[[MOC-Competitors|⬅ MOC Competitors]] | [[../README|⬅ Главная]]
+[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)
