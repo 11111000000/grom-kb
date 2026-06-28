@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 24" fill="none">
+  <!-- Concept 2.4: Typography — ГРОМ with industrial markings -->
+  <text x="0" y="20" font-family="JetBrains Mono, monospace" font-weight="700" font-size="20" fill="#f4b942" letter-spacing="3">ГРОМ</text>
+  <line x1="68" y1="2" x2="68" y2="22" stroke="#f4b942" stroke-width="1.5"/>
+  <line x1="72" y1="2" x2="78" y2="22" stroke="#f4b942" stroke-width="1.5"/>
+  <line x1="76" y1="2" x2="76" y2="22" stroke="#f4b942" stroke-width="1.5"/>
+</svg>

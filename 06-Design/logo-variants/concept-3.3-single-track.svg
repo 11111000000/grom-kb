@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Concept 3.3: Single long track with motion blur -->
+  <path d="M3 28 L29 4" stroke="#f4b942" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M5 26 L27 6" stroke="#f4b942" stroke-width="1.5" fill="none" stroke-linecap="round" opacity="0.4"/>
+  <path d="M7 24 L25 8" stroke="#f4b942" stroke-width="0.8" fill="none" stroke-linecap="round" opacity="0.2"/>
+</svg>
