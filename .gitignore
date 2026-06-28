@@ -1,0 +1,13 @@
+# MkDocs build output
+/site/
+
+# Copies of source files (generated from vault)
+/docs/
+!/docs/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

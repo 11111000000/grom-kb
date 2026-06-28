@@ -1,0 +1,161 @@
+site_name: ГРОМ38 — База знаний
+site_url: https://11111000000.github.io/grom-kb/
+repo_url: https://github.com/11111000000/grom-kb
+repo_name: grom-kb
+docs_dir: ..
+site_dir: /tmp/grom-kb-site
+exclude_docs: |
+  .github
+  .git
+  .obsidian
+  node_modules
+  kb
+  GRAPH.md
+  index.html
+
+theme:
+  name: material
+  language: ru
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Тёмная тема
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Светлая тема
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+    - toc.follow
+
+plugins:
+  - search:
+      lang: ru
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/11111000000
+
+nav:
+  - Главная: index.md
+  - Проект:
+      - MOC: 01-Project/MOC-Project.md
+      - Бизнес-модель: 01-Project/Business-Model.md
+      - Цели: 01-Project/Goals.md
+      - Ассортимент: 01-Project/Assortment.md
+      - План обновления: 01-Project/Update-Plan.md
+  - Аудит:
+      - MOC: 02-Audit/MOC-Audit.md
+      - Полный отчёт: 02-Audit/00-Full-Report.md
+      - Технический аудит: 02-Audit/Technical-Audit.md
+      - UX-аудит: 02-Audit/UX-Audit.md
+      - SEO-аудит: 02-Audit/SEO-Audit.md
+      - Контент-аудит: 02-Audit/Content-Audit.md
+      - Визуальный аудит: 02-Audit/Visual-Audit.md
+      - Schema-аудит: 02-Audit/Schema-Audit.md
+      - Эпистемический аудит: 02-Audit/Epistemic-Audit.md
+      - Критические проблемы: 02-Audit/Critical-Issues.md
+      - Баги: 02-Audit/Bugs-Баги.md
+      - Второй аудит: 02-Audit/Second-Audit-2026-06-28.md
+  - Исследования:
+      - MOC: 03-Research/MOC-Research.md
+      - Целевая аудитория: 03-Research/Target-Audience.md
+      - Позиционирование: 03-Research/Positioning.md
+      - Бренд-платформа: 03-Research/Brand-Platform.md
+      - Персоны: 03-Research/Personas.md
+      - Тон общения: 03-Research/Tone-of-Voice.md
+      - Ценностное предложение: 03-Research/Value-Proposition.md
+      - Путь клиента: 03-Research/Customer-Journey.md
+      - Аналитический дашборд: 03-Research/Analytics-Dashboard.md
+  - Конкуренты:
+      - MOC: 04-Competitors/MOC-Competitors.md
+      - Матрица конкурентов: 04-Competitors/Competitor-Matrix.md
+      - SWOT: 04-Competitors/SWOT-GROM.md
+      - Карта рынка: 04-Competitors/Market-Map.md
+      - Объём рынка: 04-Competitors/Market-Size.md
+      - Тренды: 04-Competitors/Market-Trends.md
+      - Анализ цен: 04-Competitors/Pricing-Analysis.md
+      - Nordway: 04-Competitors/Nordway.md
+      - SkatePRO: 04-Competitors/SkatePRO.md
+      - Ижевские: 04-Competitors/Izhevsk.md
+      - Открытые вопросы: 04-Competitors/Open-Questions.md
+  - Контент-план:
+      - MOC: 05-Content-Plan/MOC-Content.md
+      - Контент-столпы: 05-Content-Plan/Content-Pillars.md
+      - Контент-календарь: 05-Content-Plan/Content-Calendar.md
+      - Темы блога: 05-Content-Plan/Blog-Topics.md
+      - Копирайтинг товаров: 05-Content-Plan/Product-Copy.md
+      - Отзывы клиентов: 05-Content-Plan/Customer-Reviews.md
+  - Дизайн:
+      - MOC: 06-Design/MOC-Design.md
+      - Диалектический анализ: 06-Design/Design-Concepts.md
+      - Реализация дизайна: 06-Design/Design-Implementation.md
+      - Айдентика: 06-Design/Brand-Identity.md
+      - Палитра: 06-Design/Color-Palette.md
+      - Типографика: 06-Design/Typography.md
+      - UI-Kit: 06-Design/UI-Kit.md
+      - Главная страница: 06-Design/Homepage-Layout.md
+      - Страница товара: 06-Design/Product-Page-Layout.md
+      - Каталог: 06-Design/Category-Page-Layout.md
+  - Технологии:
+      - MOC: 07-Technical/MOC-Tech.md
+      - Стек: 07-Technical/Stack.md
+      - Диалектический анализ стека: 07-Technical/Stack-Dialectic-Analysis.md
+      - Малый бэкенд: 07-Technical/Stack-Dao-Small-Backend.md
+      - Локальная разработка: 07-Technical/Local-Dev-Environment.md
+      - Хостинг в РФ: 07-Technical/Hosting-RF-Recommendation.md
+      - Чеклист: 07-Technical/Technical-Checklist.md
+      - Schema: 07-Technical/Schema-Fix.md
+      - SEO: 07-Technical/SEO-Tech.md
+      - Производительность: 07-Technical/Performance.md
+  - Маркетинг:
+      - MOC: 08-Marketing/MOC-Marketing.md
+      - Запуск: 08-Marketing/Launch-Plan.md
+      - Соцсети: 08-Marketing/Social-Media.md
+      - Реклама: 08-Marketing/Advertising.md
+      - Email: 08-Marketing/Email-Marketing.md
+  - Решения:
+      - MOC: 09-Decisions/MOC-Decisions.md
+      - Журнал: 09-Decisions/Log.md
+      - ADR-001: 09-Decisions/ADR-001.md
+      - ADR-002: 09-Decisions/ADR-002.md
+      - ADR-003: 09-Decisions/ADR-003.md
+  - Шаблоны:
+      - README: 10-Templates/README.md
