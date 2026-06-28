@@ -13,54 +13,54 @@
 - **Симптом:** Google Search Console показывает предупреждение
 - **Решение:** `NewCondition`
 - **Подтверждено:** ✅ в исходном коде
-- **Файл:** [Schema-Audit](02-Audit/Schema-Audit.md)
+- **Файл:** [Schema-Audit](Schema-Audit.md)
 
 ### 2. Meta description отключён темой
 - **Где:** все страницы (0 совпадений `<meta name="description">`)
 - **Симптом:** пустой сниппет в Яндекс/Google
 - **Решение:** включить в AIOSEO или в `header.php`
 - **Подтверждено:** ✅
-- **Файл:** [SEO-Audit](02-Audit/SEO-Audit.md)
+- **Файл:** [SEO-Audit](SEO-Audit.md)
 
 ### 3. Спам keywords в OG-description главной
 - **Где:** `/` главная
 - **Симптом:** «озерные коньки ГРОМ озерные коньки гром озёрные коньки гром гром38»
 - **Решение:** человеческое описание 100-160 символов
 - **Подтверждено:** ✅
-- **Файл:** [SEO-Audit](02-Audit/SEO-Audit.md)
+- **Файл:** [SEO-Audit](SEO-Audit.md)
 
 ### 4. Email `vandex` вместо `yandex`
 - **Где:** страница «Контакты»
 - **Симптом:** письма не доходят
 - **Решение:** исправить на `yandex.ru`
 - **Подтверждено:** ✅
-- **Файл:** [Technical-Audit](02-Audit/Technical-Audit.md)
+- **Файл:** [Technical-Audit](Technical-Audit.md)
 
 ### 5. Два разных телефона
 - **Где:** шапка `+7 (901) 641-48-48` ≠ контакты `+7 (902) 576-19-17`
 - **Симптом:** путаница у клиентов
 - **Решение:** оставить один номер, обновить везде
 - **Подтверждено:** ✅
-- **Файл:** [UX-Audit](02-Audit/UX-Audit.md)
+- **Файл:** [UX-Audit](UX-Audit.md)
 
 ### 6. Cookie-бар со спам-текстом
 - **Где:** низ всех страниц
 - **Симптом:** «Caйт иcпoльзуeт куки-фaйлы...» (кириллица → латиница)
 - **Решение:** заменить плагин или текст
-- **Файл:** [Technical-Audit](02-Audit/Technical-Audit.md)
+- **Файл:** [Technical-Audit](Technical-Audit.md)
 
 ### 7. Валидация форм отключена JS
 - **Где:** все формы
 - **Симптом:** мусорные заявки проходят
 - **Решение:** включить валидацию
-- **Файл:** [Technical-Audit](02-Audit/Technical-Audit.md)
+- **Файл:** [Technical-Audit](Technical-Audit.md)
 
 ### 8. robots.txt блокирует ВСЕ URL с параметрами
 - **Где:** `robots.txt`, строка `Disallow: /*?*`
 - **Симптом:** пагинация (`, фильтры (`
 - **Решение:** убрать правило или сделать точечные исключения
 - **Подтверждено:** ✅ **КРИТИЧНО, не было в исходном отчёте**
-- **Файл:** [SEO-Tech](07-Technical/SEO-Tech.md)
+- **Файл:** [SEO-Tech](../07-Technical/SEO-Tech.md)
 
 ### 9. Главная страница без H1
 - **Где:** `/` главная
@@ -156,9 +156,9 @@
 
 ## 🔗 Связанные документы
 
-- [Epistemic-Audit](02-Audit/Epistemic-Audit.md) — коррекция исследования
-- [Critical-Issues](02-Audit/Critical-Issues.md) — только критические
-- [../09-Decisions/Log](09-Decisions/Log.md) — что решили по каждому
-- [../07-Technical/MOC-Tech](07-Technical/MOC-Tech.md) — технический бэклог
+- [Epistemic-Audit](Epistemic-Audit.md) — коррекция исследования
+- [Critical-Issues](Critical-Issues.md) — только критические
+- [../09-Decisions/Log](../09-Decisions/Log.md) — что решили по каждому
+- [../07-Technical/MOC-Tech](../07-Technical/MOC-Tech.md) — технический бэклог
 
-[⬅ MOC Audit](02-Audit/MOC-Audit.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Audit](MOC-Audit.md) | [⬅ Главная](../00-Inbox/README.md)

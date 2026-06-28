@@ -104,6 +104,9 @@ nav:
       - Критические проблемы: 02-Audit/Critical-Issues.md
       - Баги: 02-Audit/Bugs-Баги.md
       - Второй аудит: 02-Audit/Second-Audit-2026-06-28.md
+      - Аудит нового сайта (Astro): 02-Audit/Site-Audit-v2-Astro.md
+  - Сравнения:
+      - Старая vs новая (WP→Astro): Comparisons/Before-After.md
   - Исследования:
       - MOC: 03-Research/MOC-Research.md
       - Целевая аудитория: 03-Research/Target-Audience.md

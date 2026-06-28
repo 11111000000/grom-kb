@@ -200,6 +200,9 @@
   },
   "active": "56e953c9dd71f228",
   "lastOpenFiles": [
+    "Comparisons/Before-After.md",
+    "Comparisons",
+    "02-Audit/Site-Audit-v2-Astro.md",
     "javascripts/mermaid-init.js",
     "javascripts",
     "kb/docs/javascripts/mermaid-init.js",
@@ -209,8 +212,6 @@
     "kb/convert-links.py",
     "kb",
     "site/search/search_index.json",
-    "site/search",
-    "site/10-Templates/TPL-Task/index.html",
     "site/assets/images/favicon.png",
     "docs/09-Decisions/MOC-Decisions.md",
     "docs/09-Decisions/Log.md",
@@ -235,7 +236,6 @@
     "docs/03-Research/Value-Proposition.md",
     "docs/03-Research/Tone-of-Voice.md",
     "docs/03-Research/Target-Audience.md",
-    "docs/03-Research/Positioning.md",
-    "docs/03-Research/Personas.md"
+    "docs/03-Research/Positioning.md"
   ]
 }
