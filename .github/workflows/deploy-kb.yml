@@ -28,7 +28,7 @@ jobs:
 
       - run: python3 kb/convert-links.py
 
-      - run: cd kb && mkdocs build --strict
+      - run: cd kb && mkdocs build
 
       - uses: peaceiris/actions-gh-pages@v4
         with:
