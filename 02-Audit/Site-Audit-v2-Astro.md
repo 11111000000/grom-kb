@@ -46,6 +46,7 @@
 ## 2. SEO-аудит
 
 ### ✅ Исправлено
+- **Schema.org JSON-LD** — Organization (главная), Product (6 товаров), BreadcrumbList (все подстраницы) ✓
 - **Canonical URL** — добавлен на все страницы ✓
 - **Hreflang** — ru/en/zh + x-default ✓
 - **Open Graph** — og:title, og:description, og:url, og:site_name, og:locale ✓
@@ -65,9 +66,6 @@
 | /technology/ | ✓ | ✓ уникальный | ✓ | ✓ | ✓ |
 | /tours/ | ✓ | ✓ уникальный | ✓ | ✓ | ✓ |
 | /tours/baikal/ | ✓ | ✓ уникальный | ✓ | ✓ | ✓ |
-
-### ⏳ Остаётся
-- **Schema.org JSON-LD** — Organization, Product, BreadcrumbList (средняя сложность, требует правок в шаблоны)
 
 ---
 
@@ -105,10 +103,10 @@
 
 ## 5. Итоговый план
 
-### ✅ Исправлено (12 пунктов)
+### ✅ Исправлено (14 пунктов)
 1. ~~Мобильная навигация~~ → hamburger + slide-down drawer
 2. ~~Хардкод `?lang=ru`~~ → используется текущий `lang`
-3. ~~Schema.org~~ → (ожидает — средняя сложность)
+3. ~~Schema.org JSON-LD~~ → Organization (главная), Product (6 товаров), BreadcrumbList (все подстраницы)
 4. ~~robots.txt + sitemap.xml~~ → добавлены в public/
 5. ~~Canonical URL~~ → на всех страницах
 6. ~~Hreflang~~ → ru/en/zh + x-default
@@ -119,13 +117,13 @@
 11. ~~Label для select~~ → for/id связка
 12. ~~Preload шрифтов~~ → Inter 600/700
 13. ~~Favicon + manifest~~ → SVG + webmanifest
+14. ~~Schema.org BreadcrumbList~~ → все подстраницы (каталог, товары, туры, о бренде, контакты, технология)
 
 ### ⏳ Остаётся (требует отдельной работы)
-- **Schema.org JSON-LD** — Organization, Product, BreadcrumbList
 - **WebP версии фото** — конвертация 6 JPEG → WebP
 - **Данные из БД** — синхронизация хардкода с PostgreSQL (раздел 5 аудита)
 - **Заголовки безопасности** — CSP, HSTS (требует настройки GH Pages)
 
 ## 6. Теги
 
-`#audit` `#seo` `#ux` `#accessibility` `#i18n` `#mobile` `#astro` `#tailwind` `#fixed` `#remaining-db` `#remaining-schema` `#remaining-webp`
+`#audit` `#seo` `#ux` `#accessibility` `#i18n` `#mobile` `#astro` `#tailwind` `#fixed` `#remaining-db` `#remaining-webp`
