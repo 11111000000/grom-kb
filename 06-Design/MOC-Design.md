@@ -36,9 +36,9 @@ graph TD
 
 ### Брендинг
 - [Brand-Identity](Brand-Identity.md) — айдентика
+- [Logo-Concepts](Logo-Concepts.md) — 4 концепции логотипа + 16 SVG-вариантов
 - [Color-Palette](Color-Palette.md) — цвета
 - [Typography](Typography.md) — шрифты
-- [Logo-Versions](Logo-Versions.md) — версии логотипа
 - [Brand-Voice](Brand-Voice.md) — голос бренда
 
 ### UI

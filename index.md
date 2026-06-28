@@ -126,6 +126,7 @@
 ## 🎨 Дизайн
 
 - [06-Design/Brand-Identity](06-Design/Brand-Identity.md) — айдентика
+- [06-Design/Logo-Concepts](06-Design/Logo-Concepts.md) — 4 концепции + 16 SVG логотипа
 - [06-Design/Color-Palette](06-Design/Color-Palette.md) — палитра
 - [06-Design/Typography](06-Design/Typography.md) — шрифты
 - [06-Design/UI-Kit](06-Design/UI-Kit.md) — компоненты

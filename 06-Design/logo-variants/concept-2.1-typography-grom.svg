@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" fill="none">
+  <!-- Concept 2.1: Typography — Г as a hammer strike -->
+  <text x="2" y="26" font-family="Inter, system-ui, sans-serif" font-weight="900" font-size="28" fill="#f4b942" letter-spacing="-1">ГРОМ</text>
+  <rect x="2" y="29" width="56" height="2" fill="#f4b942"/>
+</svg>

@@ -200,6 +200,19 @@
   },
   "active": "56e953c9dd71f228",
   "lastOpenFiles": [
+    "06-Design/logo-variants/index.html",
+    "06-Design/logo-variants/concept-4.4-diamond-premium.svg",
+    "06-Design/logo-variants/concept-4.3-snowflake-bolt.svg",
+    "06-Design/logo-variants/concept-4.2-faceted-crystal.svg",
+    "06-Design/logo-variants/concept-4.1-hex-crystal.svg",
+    "06-Design/logo-variants/concept-3.4-blade-profile.svg",
+    "06-Design/logo-variants/concept-3.3-single-track.svg",
+    "06-Design/logo-variants/concept-3.2-tracks-with-bolt.svg",
+    "06-Design/logo-variants/concept-3.1-skate-tracks.svg",
+    "06-Design/logo-variants/concept-2.4-mono-industrial.svg",
+    "06-Design/logo-variants/concept-2.3-bolt-above-text.svg",
+    "06-Design/Logo-Concepts.md",
+    "06-Design/logo-variants",
     "Comparisons/Before-After.md",
     "Comparisons",
     "02-Audit/Site-Audit-v2-Astro.md",
@@ -211,8 +224,6 @@
     "kb/mkdocs.yml",
     "kb/convert-links.py",
     "kb",
-    "site/search/search_index.json",
-    "site/assets/images/favicon.png",
     "docs/09-Decisions/MOC-Decisions.md",
     "docs/09-Decisions/Log.md",
     "docs/09-Decisions/ADR-003.md",
@@ -234,8 +245,6 @@
     "docs/06-Design/Category-Page-Layout.md",
     "docs/06-Design/Brand-Identity.md",
     "docs/03-Research/Value-Proposition.md",
-    "docs/03-Research/Tone-of-Voice.md",
-    "docs/03-Research/Target-Audience.md",
-    "docs/03-Research/Positioning.md"
+    "docs/03-Research/Tone-of-Voice.md"
   ]
 }

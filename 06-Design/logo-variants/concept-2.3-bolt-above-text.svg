@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" fill="none">
+  <!-- Concept 2.3: Typography — Vertical stack: bolt + ГРОМ -->
+  <path d="M19 2 L8 18 L15 18 L11 30 L24 14 L17 14 Z" fill="#f4b942"/>
+  <text x="32" y="22" font-family="Inter, system-ui, sans-serif" font-weight="900" font-size="14" fill="#f4b942" text-anchor="middle" letter-spacing="2">ГРОМ</text>
+</svg>
