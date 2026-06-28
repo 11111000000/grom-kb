@@ -2,11 +2,10 @@ name: Deploy MkDocs to GitHub Pages
 
 on:
   push:
-    branches: [main, gh-pages]
+    branches: [main]
     paths:
       - '**.md'
-      - 'mkdocs.yml'
-      - 'docs/**'
+      - 'kb/**'
       - '.github/workflows/deploy-kb.yml'
 
 permissions:
@@ -28,11 +27,22 @@ jobs:
 
       - run: python3 kb/convert-links.py
 
-      - run: cd kb && mkdocs build
+      - name: Build site
+        working-directory: kb
+        run: mkdocs build
 
-      - uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: site
-          publish_branch: gh-pages
-          force_orphan: true
+      - name: Commit built site to gh-pages
+        run: |
+          cd kb
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Copy built site to /tmp
+          cp -r site /tmp/deploy-site
+          cd /tmp/deploy-site
+          # Init fresh repo on gh-pages branch
+          git init
+          git checkout -b gh-pages
+          git remote add origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          git add -A
+          git commit -m "Deploy MkDocs site" --allow-empty
+          git push -f origin gh-pages
