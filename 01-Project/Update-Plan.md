@@ -75,8 +75,8 @@
 
 ## 🔗 Связанные документы
 
-- [Повторный аудит](../02-Audit/Second-Audit-2026-06-28)
-- [Ассортимент (обновлён)](../01-Project/Assortment)
-- [Копирайтинг товаров](../05-Content-Plan/Product-Copy)
+- [Повторный аудит](../02-Audit/Second-Audit-2026-06-28.md)
+- [Ассортимент (обновлён)](Assortment.md)
+- [Копирайтинг товаров](../05-Content-Plan/Product-Copy.md)
 
-[⬅ MOC Project](MOC-Project.md) | [⬅ Главная](../README)
+[⬅ MOC Project](MOC-Project.md) | [⬅ Главная](../README.md)

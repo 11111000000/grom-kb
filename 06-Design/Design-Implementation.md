@@ -290,12 +290,12 @@ animation: {
 
 ## 🔗 Связанные документы
 
-- [Design-Concepts](06-Design/Design-Concepts.md) — диалектический анализ концепций
-- [Brand-Identity](06-Design/Brand-Identity.md) — айдентика
-- [Color-Palette](06-Design/Color-Palette.md) — палитра
-- [Typography](06-Design/Typography.md) — шрифты
-- [Homepage-Layout](06-Design/Homepage-Layout.md) — макет главной (обновляется)
-- [UI-Kit](06-Design/UI-Kit.md) — UI-кит
-- [../09-Decisions/ADR-003](09-Decisions/ADR-003.md) — ребрендинг
+- [Design-Concepts](Design-Concepts.md) — диалектический анализ концепций
+- [Brand-Identity](Brand-Identity.md) — айдентика
+- [Color-Palette](Color-Palette.md) — палитра
+- [Typography](Typography.md) — шрифты
+- [Homepage-Layout](Homepage-Layout.md) — макет главной (обновляется)
+- [UI-Kit](UI-Kit.md) — UI-кит
+- [../09-Decisions/ADR-003](../09-Decisions/ADR-003.md) — ребрендинг
 
-[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Design](MOC-Design.md) | [⬅ Главная](../00-Inbox/README.md)

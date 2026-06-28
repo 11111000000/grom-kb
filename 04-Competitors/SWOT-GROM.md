@@ -123,11 +123,11 @@
 
 ## 🔗 Связанные документы
 
-- [../03-Research/Positioning](03-Research/Positioning.md)
-- [Target-Audience](03-Research/Target-Audience.md)
-- [Market-Map](04-Competitors/Market-Map.md)
-- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md)
-- [Epistemic-Audit](02-Audit/Epistemic-Audit.md) — коррекция данных
-- [../09-Decisions/Log](09-Decisions/Log.md) — лог решений
+- [../03-Research/Positioning](../03-Research/Positioning.md)
+- [Target-Audience](../03-Research/Target-Audience.md)
+- [Market-Map](Market-Map.md)
+- [Competitor-Matrix](Competitor-Matrix.md)
+- [Epistemic-Audit](../02-Audit/Epistemic-Audit.md) — коррекция данных
+- [../09-Decisions/Log](../09-Decisions/Log.md) — лог решений
 
-[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Competitors](MOC-Competitors.md) | [⬅ Главная](../00-Inbox/README.md)

@@ -149,10 +149,10 @@
 
 ## 🔗 Связанные документы
 
-- [UX-Audit](02-Audit/UX-Audit.md) — UX-проблемы
-- [Visual-Audit](02-Audit/Visual-Audit.md) — медиа
-- [Описания товаров](05-Content-Plan/Product-Copy.md)
-- [Темы блога](05-Content-Plan/Blog-Topics.md)
-- [Контент-календарь](05-Content-Plan/Content-Calendar.md)
+- [UX-Audit](UX-Audit.md) — UX-проблемы
+- [Visual-Audit](Visual-Audit.md) — медиа
+- [Описания товаров](../05-Content-Plan/Product-Copy.md)
+- [Темы блога](../05-Content-Plan/Blog-Topics.md)
+- [Контент-календарь](../05-Content-Plan/Content-Calendar.md)
 
-[⬅ MOC Audit](02-Audit/MOC-Audit.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Audit](MOC-Audit.md) | [⬅ Главная](../00-Inbox/README.md)

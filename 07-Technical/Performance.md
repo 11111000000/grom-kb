@@ -173,9 +173,9 @@ gzip_min_length 1000;
 
 ## 🔗 Связанные документы
 
-- [Stack](07-Technical/Stack.md) — стек
+- [Stack](Stack.md) — стек
 - [Image-Optimization](Image-Optimization.md) — изображения
 - [Caching](Caching.md) — кэширование
 - [Hosting](Hosting.md) — хостинг
 
-[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Tech](MOC-Tech.md) | [⬅ Главная](../00-Inbox/README.md)

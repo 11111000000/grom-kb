@@ -300,10 +300,10 @@ twc agent logs grom-agent --follow
 
 ## 🔗 Связанные документы
 
-- [Stack-Dialectic-Analysis](07-Technical/Stack-Dialectic-Analysis.md) — общий анализ стека
+- [Stack-Dialectic-Analysis](Stack-Dialectic-Analysis.md) — общий анализ стека
 - [Stack-Dao-Approach](Stack-Dao-Approach.md) — Дао-подход (без бэка)
-- [Stack-Dao-Small-Backend](07-Technical/Stack-Dao-Small-Backend.md) — Дао с маленьким бэком
-- [../09-Decisions/ADR-001](09-Decisions/ADR-001.md) — редизайн
+- [Stack-Dao-Small-Backend](Stack-Dao-Small-Backend.md) — Дао с маленьким бэком
+- [../09-Decisions/ADR-001](../09-Decisions/ADR-001.md) — редизайн
 - Внешний источник: `~/Desktop/GeniumProject/content/темы/хостинг-в-рф-сравнение-2026.md`
 
-[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Tech](MOC-Tech.md) | [⬅ Главная](../00-Inbox/README.md)

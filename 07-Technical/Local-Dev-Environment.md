@@ -1201,8 +1201,8 @@ LOG_FORMAT=json
 ## 🔗 Связанные документы
 
 - [Stack-Recommendation](Stack-Recommendation.md) — финальный стек
-- [Hosting-RF-Recommendation](07-Technical/Hosting-RF-Recommendation.md) — Selectel
-- [../09-Decisions/ADR-001](09-Decisions/ADR-001.md) — редизайн
+- [Hosting-RF-Recommendation](Hosting-RF-Recommendation.md) — Selectel
+- [../09-Decisions/ADR-001](../09-Decisions/ADR-001.md) — редизайн
 - [ADR-008](ADR-008.md) — финальное решение по стеку (нужно создать)
 
-[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Tech](MOC-Tech.md) | [⬅ Главная](../00-Inbox/README.md)

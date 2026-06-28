@@ -36,20 +36,20 @@ graph TD
 ## 📄 Страницы
 
 ### Запуск
-- [Launch-Plan](08-Marketing/Launch-Plan.md) — план запуска нового сайта
+- [Launch-Plan](Launch-Plan.md) — план запуска нового сайта
 
 ### Email
-- [Email-Marketing](08-Marketing/Email-Marketing.md) — email-стратегия
+- [Email-Marketing](Email-Marketing.md) — email-стратегия
 - [Email-Sequences](Email-Sequences.md) — цепочки писем
 
 ### SMM
-- [Social-Media](08-Marketing/Social-Media.md) — SMM-стратегия
+- [Social-Media](Social-Media.md) — SMM-стратегия
 - [VK-Strategy](VK-Strategy.md) — ВКонтакте
 - [Telegram-Strategy](Telegram-Strategy.md) — Telegram
 - [YouTube-Strategy](YouTube-Strategy.md) — YouTube/RuTube
 
 ### Реклама
-- [Advertising](08-Marketing/Advertising.md) — рекламная стратегия
+- [Advertising](Advertising.md) — рекламная стратегия
 - [Yandex-Direct](Yandex-Direct.md) — Яндекс.Директ
 - [VK-Ads](VK-Ads.md) — VK Реклама
 
@@ -125,10 +125,10 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [../01-Project/MOC-Project](01-Project/MOC-Project.md)
-- [../03-Research/MOC-Research](03-Research/MOC-Research.md)
-- [../05-Content-Plan/MOC-Content](05-Content-Plan/MOC-Content.md)
+- [../01-Project/MOC-Project](../01-Project/MOC-Project.md)
+- [../03-Research/MOC-Research](../03-Research/MOC-Research.md)
+- [../05-Content-Plan/MOC-Content](../05-Content-Plan/MOC-Content.md)
 
 ---
 
-[⬅ Главная](00-Inbox/README.md)
+[⬅ Главная](../00-Inbox/README.md)

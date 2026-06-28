@@ -320,11 +320,11 @@ akismet, all-in-one-seo-pack-pro, bwd-dual-buttons, cookie-bar, customer-email-v
 
 ## 🔗 Связанные документы
 
-- [../02-Audit/MOC-Audit](02-Audit/MOC-Audit.md)
-- [../01-Project/Business-Model](01-Project/Business-Model.md)
-- [../01-Project/Assortment](01-Project/Assortment.md)
-- [../02-Audit/Bugs-Баги](02-Audit/Bugs-Баги.md)
-- [../02-Audit/Critical-Issues](02-Audit/Critical-Issues.md)
+- [../02-Audit/MOC-Audit](MOC-Audit.md)
+- [../01-Project/Business-Model](../01-Project/Business-Model.md)
+- [../01-Project/Assortment](../01-Project/Assortment.md)
+- [../02-Audit/Bugs-Баги](Bugs-Баги.md)
+- [../02-Audit/Critical-Issues](Critical-Issues.md)
 - [../../ANALYSIS_REPORT](../../ANALYSIS_REPORT.md) — исходный отчёт
 
-[⬅ Главная](00-Inbox/README.md)
+[⬅ Главная](../00-Inbox/README.md)

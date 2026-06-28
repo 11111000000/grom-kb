@@ -99,10 +99,10 @@
 
 ## 🔗 Связанные документы
 
-- [Nordway](04-Competitors/Nordway.md)
-- [SkatePRO](04-Competitors/SkatePRO.md)
-- [Izhevsk](04-Competitors/Izhevsk.md)
-- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md)
-- [Pricing-Analysis](04-Competitors/Pricing-Analysis.md)
+- [Nordway](Nordway.md)
+- [SkatePRO](SkatePRO.md)
+- [Izhevsk](Izhevsk.md)
+- [Competitor-Matrix](Competitor-Matrix.md)
+- [Pricing-Analysis](Pricing-Analysis.md)
 
-[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Competitors](MOC-Competitors.md) | [⬅ Главная](../00-Inbox/README.md)

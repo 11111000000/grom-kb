@@ -80,9 +80,9 @@
 
 ## 🔗 Связанные документы
 
-- [Стек — детали](07-Technical/Stack.md)
-- [Производительность](07-Technical/Performance.md)
-- [Bugs-Баги](02-Audit/Bugs-Баги.md) — все баги
-- [Critical-Issues](02-Audit/Critical-Issues.md) — только критические
+- [Стек — детали](../07-Technical/Stack.md)
+- [Производительность](../07-Technical/Performance.md)
+- [Bugs-Баги](Bugs-Баги.md) — все баги
+- [Critical-Issues](Critical-Issues.md) — только критические
 
-[⬅ MOC Audit](02-Audit/MOC-Audit.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Audit](MOC-Audit.md) | [⬅ Главная](../00-Inbox/README.md)

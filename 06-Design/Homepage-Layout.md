@@ -252,10 +252,10 @@
 
 ## 🔗 Связанные документы
 
-- [Brand-Identity](06-Design/Brand-Identity.md)
-- [Color-Palette](06-Design/Color-Palette.md)
-- [UI-Kit](06-Design/UI-Kit.md)
-- [Product-Page-Layout](06-Design/Product-Page-Layout.md) — карточка
-- [Category-Page-Layout](06-Design/Category-Page-Layout.md) — каталог
+- [Brand-Identity](Brand-Identity.md)
+- [Color-Palette](Color-Palette.md)
+- [UI-Kit](UI-Kit.md)
+- [Product-Page-Layout](Product-Page-Layout.md) — карточка
+- [Category-Page-Layout](Category-Page-Layout.md) — каталог
 
-[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Design](MOC-Design.md) | [⬅ Главная](../00-Inbox/README.md)

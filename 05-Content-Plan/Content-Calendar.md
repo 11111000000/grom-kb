@@ -141,10 +141,10 @@
 
 ## 🔗 Связанные документы
 
-- [Product-Copy](05-Content-Plan/Product-Copy.md)
-- [Blog-Topics](05-Content-Plan/Blog-Topics.md)
-- [Content-Pillars](05-Content-Plan/Content-Pillars.md)
-- [План запуска](08-Marketing/Launch-Plan.md)
-- [Email](08-Marketing/Email-Marketing.md)
+- [Product-Copy](Product-Copy.md)
+- [Blog-Topics](Blog-Topics.md)
+- [Content-Pillars](Content-Pillars.md)
+- [План запуска](../08-Marketing/Launch-Plan.md)
+- [Email](../08-Marketing/Email-Marketing.md)
 
-[⬅ MOC Content](05-Content-Plan/MOC-Content.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Content](MOC-Content.md) | [⬅ Главная](../00-Inbox/README.md)

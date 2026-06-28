@@ -209,4 +209,4 @@
 
 ---
 
-[⬅ Шаблоны](00-Inbox/README.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ Шаблоны](../00-Inbox/README.md) | [⬅ Главная](../00-Inbox/README.md)

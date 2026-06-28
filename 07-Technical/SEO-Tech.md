@@ -210,9 +210,9 @@ Sitemap: https://гром38.рф/sitemap.xml
 
 ## 🔗 Связанные документы
 
-- [Schema-Fix](07-Technical/Schema-Fix.md)
-- [Performance](07-Technical/Performance.md)
-- [SEO-Audit](02-Audit/SEO-Audit.md)
+- [Schema-Fix](Schema-Fix.md)
+- [Performance](Performance.md)
+- [SEO-Audit](../02-Audit/SEO-Audit.md)
 - [Sitemap-Robots](Sitemap-Robots.md)
 
-[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Tech](MOC-Tech.md) | [⬅ Главная](../00-Inbox/README.md)

@@ -143,10 +143,10 @@
 
 ## 🔗 Связанные документы
 
-- [Stack](07-Technical/Stack.md) — стек
-- [Performance](07-Technical/Performance.md) — производительность
-- [SEO-Tech](07-Technical/SEO-Tech.md) — SEO-техника
-- [Schema-Fix](07-Technical/Schema-Fix.md) — фикс микроразметки
-- [../02-Audit/Bugs-Баги](02-Audit/Bugs-Баги.md) — все баги
+- [Stack](Stack.md) — стек
+- [Performance](Performance.md) — производительность
+- [SEO-Tech](SEO-Tech.md) — SEO-техника
+- [Schema-Fix](Schema-Fix.md) — фикс микроразметки
+- [../02-Audit/Bugs-Баги](../02-Audit/Bugs-Баги.md) — все баги
 
-[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Tech](MOC-Tech.md) | [⬅ Главная](../00-Inbox/README.md)

@@ -213,9 +213,9 @@
 
 ## 🔗 Связанные документы
 
-- [SEO-Audit](02-Audit/SEO-Audit.md) — общий SEO-аудит
-- [Technical-Audit](02-Audit/Technical-Audit.md) — технические баги
-- [Технический фикс Schema](07-Technical/Schema-Fix.md)
-- [Bugs-Баги](02-Audit/Bugs-Баги.md) — все баги
+- [SEO-Audit](SEO-Audit.md) — общий SEO-аудит
+- [Technical-Audit](Technical-Audit.md) — технические баги
+- [Технический фикс Schema](../07-Technical/Schema-Fix.md)
+- [Bugs-Баги](Bugs-Баги.md) — все баги
 
-[⬅ MOC Audit](02-Audit/MOC-Audit.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Audit](MOC-Audit.md) | [⬅ Главная](../00-Inbox/README.md)

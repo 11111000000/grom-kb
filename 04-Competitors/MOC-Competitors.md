@@ -38,22 +38,22 @@ graph TD
 ## 📄 Страницы
 
 ### Прямые конкуренты
-- [Nordway](04-Competitors/Nordway.md) — главный российский конкурент (гипотеза)
-- [SkatePRO](04-Competitors/SkatePRO.md) — чешский премиум (гипотеза)
-- [Izhevsk](04-Competitors/Izhevsk.md) — ижевские производители (гипотеза)
+- [Nordway](Nordway.md) — главный российский конкурент (гипотеза)
+- [SkatePRO](SkatePRO.md) — чешский премиум (гипотеза)
+- [Izhevsk](Izhevsk.md) — ижевские производители (гипотеза)
 
 ### Косвенные
 - [Aliexpress-NoName](Aliexpress-NoName.md) — дешёвые аналоги (гипотеза)
 
 ### Аналитика (требует проверки)
-- [Market-Map](04-Competitors/Market-Map.md) — карта рынка
-- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md) — сравнительная таблица
-- [Pricing-Analysis](04-Competitors/Pricing-Analysis.md) — ценовой анализ
-- [Market-Size](04-Competitors/Market-Size.md) — объём рынка РФ (НУЖНО ИССЛЕДОВАТЬ)
-- [Market-Trends](04-Competitors/Market-Trends.md) — тренды зимнего outdoor (НУЖНО ИССЛЕДОВАТЬ)
+- [Market-Map](Market-Map.md) — карта рынка
+- [Competitor-Matrix](Competitor-Matrix.md) — сравнительная таблица
+- [Pricing-Analysis](Pricing-Analysis.md) — ценовой анализ
+- [Market-Size](Market-Size.md) — объём рынка РФ (НУЖНО ИССЛЕДОВАТЬ)
+- [Market-Trends](Market-Trends.md) — тренды зимнего outdoor (НУЖНО ИССЛЕДОВАТЬ)
 
 ### SWOT
-- [SWOT-GROM](04-Competitors/SWOT-GROM.md) — SWOT-анализ ГРОМ (обновлено)
+- [SWOT-GROM](SWOT-GROM.md) — SWOT-анализ ГРОМ (обновлено)
 
 ---
 
@@ -144,11 +144,11 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [../01-Project/MOC-Project](01-Project/MOC-Project.md)
-- [../03-Research/MOC-Research](03-Research/MOC-Research.md)
-- [../06-Design/MOC-Design](06-Design/MOC-Design.md)
-- [../02-Audit/Epistemic-Audit](02-Audit/Epistemic-Audit.md)
+- [../01-Project/MOC-Project](../01-Project/MOC-Project.md)
+- [../03-Research/MOC-Research](../03-Research/MOC-Research.md)
+- [../06-Design/MOC-Design](../06-Design/MOC-Design.md)
+- [../02-Audit/Epistemic-Audit](../02-Audit/Epistemic-Audit.md)
 
 ---
 
-[⬅ Главная](00-Inbox/README.md)
+[⬅ Главная](../00-Inbox/README.md)

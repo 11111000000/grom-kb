@@ -36,18 +36,18 @@ graph TD
 ## 📄 Страницы
 
 ### Архитектура
-- [Stack](07-Technical/Stack.md) — стек технологий
+- [Stack](Stack.md) — стек технологий
 - [Hosting](Hosting.md) — хостинг
 - [Backup-Strategy](Backup-Strategy.md) — бэкапы
 
 ### Производительность
-- [Performance](07-Technical/Performance.md) — оптимизация скорости
+- [Performance](Performance.md) — оптимизация скорости
 - [Image-Optimization](Image-Optimization.md) — оптимизация изображений
 - [Caching](Caching.md) — кэширование
 
 ### SEO-техника
-- [SEO-Tech](07-Technical/SEO-Tech.md) — техническое SEO
-- [Schema-Fix](07-Technical/Schema-Fix.md) — фикс Schema.org
+- [SEO-Tech](SEO-Tech.md) — техническое SEO
+- [Schema-Fix](Schema-Fix.md) — фикс Schema.org
 - [Sitemap-Robots](Sitemap-Robots.md) — sitemap и robots
 
 ### Безопасность
@@ -87,9 +87,9 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [Аудит](02-Audit/MOC-Audit.md)
-- [Проект](01-Project/MOC-Project.md)
+- [Аудит](../02-Audit/MOC-Audit.md)
+- [Проект](../01-Project/MOC-Project.md)
 
 ---
 
-[⬅ Главная](00-Inbox/README.md)
+[⬅ Главная](../00-Inbox/README.md)

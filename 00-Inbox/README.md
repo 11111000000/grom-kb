@@ -41,16 +41,16 @@
 ## ⏭ Следующие шаги
 
 ### Ближайшие (эта неделя)
-- [ ] Завершить UX-аудит (раздел [UX-Audit](02-Audit/UX-Audit.md))
-- [ ] Завершить SEO-аудит (раздел [SEO-Audit](02-Audit/SEO-Audit.md))
-- [ ] Описать целевую аудиторию ([Target-Audience](03-Research/Target-Audience.md))
-- [ ] Сформулировать позиционирование ([Positioning](03-Research/Positioning.md))
-- [ ] Создать бренд-платформу ([Brand-Platform](03-Research/Brand-Platform.md))
+- [ ] Завершить UX-аудит (раздел [UX-Audit](../02-Audit/UX-Audit.md))
+- [ ] Завершить SEO-аудит (раздел [SEO-Audit](../02-Audit/SEO-Audit.md))
+- [ ] Описать целевую аудиторию ([Target-Audience](../03-Research/Target-Audience.md))
+- [ ] Сформулировать позиционирование ([Positioning](../03-Research/Positioning.md))
+- [ ] Создать бренд-платформу ([Brand-Platform](../03-Research/Brand-Platform.md))
 
 ### Следующая фаза
-- [ ] Исследование конкурентов ([MOC-Competitors](04-Competitors/MOC-Competitors.md))
+- [ ] Исследование конкурентов ([MOC-Competitors](../04-Competitors/MOC-Competitors.md))
 - [ ] Контент-план блога
-- [ ] Каркас дизайн-системы ([Brand-Identity](06-Design/Brand-Identity.md))
+- [ ] Каркас дизайн-системы ([Brand-Identity](../06-Design/Brand-Identity.md))
 - [ ] Прототип главной и карточки товара
 
 ### Технические долги (исправить до запуска)
@@ -121,4 +121,4 @@
 
 ---
 
-[⬅ Главную](00-Inbox/README.md)
+[⬅ Главную](../README.md)

@@ -196,10 +196,10 @@
 
 ## 🔗 Связанные документы
 
-- [Launch-Plan](08-Marketing/Launch-Plan.md)
-- [Email-Marketing](08-Marketing/Email-Marketing.md)
+- [Launch-Plan](Launch-Plan.md)
+- [Email-Marketing](Email-Marketing.md)
 - [VK-Strategy](VK-Strategy.md)
 - [Telegram-Strategy](Telegram-Strategy.md)
 - [YouTube-Strategy](YouTube-Strategy.md)
 
-[⬅ MOC Marketing](08-Marketing/MOC-Marketing.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Marketing](MOC-Marketing.md) | [⬅ Главная](../00-Inbox/README.md)

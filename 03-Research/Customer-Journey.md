@@ -156,9 +156,9 @@
 
 ## 🔗 Связанные документы
 
-- [Target-Audience](03-Research/Target-Audience.md)
-- [Personas](03-Research/Personas.md)
-- [Positioning](03-Research/Positioning.md)
-- [Email-маркетинг](08-Marketing/Email-Marketing.md)
+- [Target-Audience](Target-Audience.md)
+- [Personas](Personas.md)
+- [Positioning](Positioning.md)
+- [Email-маркетинг](../08-Marketing/Email-Marketing.md)
 
-[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Research](MOC-Research.md) | [⬅ Главная](../00-Inbox/README.md)

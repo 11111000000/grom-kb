@@ -95,10 +95,10 @@
 
 ## 🔗 Связанные документы
 
-- [Market-Trends](04-Competitors/Market-Trends.md)
-- [SWOT-GROM](04-Competitors/SWOT-GROM.md)
-- [Competitor-Matrix](04-Competitors/Competitor-Matrix.md)
-- [Pricing-Analysis](04-Competitors/Pricing-Analysis.md)
-- [../03-Research/Analytics-Dashboard](03-Research/Analytics-Dashboard.md)
+- [Market-Trends](Market-Trends.md)
+- [SWOT-GROM](SWOT-GROM.md)
+- [Competitor-Matrix](Competitor-Matrix.md)
+- [Pricing-Analysis](Pricing-Analysis.md)
+- [../03-Research/Analytics-Dashboard](../03-Research/Analytics-Dashboard.md)
 
-[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Competitors](MOC-Competitors.md) | [⬅ Главная](../00-Inbox/README.md)

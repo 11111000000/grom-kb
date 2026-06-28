@@ -2,22 +2,25 @@
 """Convert Obsidian WikiLinks AND fix relative markdown links for MkDocs."""
 import re
 import os
-import sys
 
 VAULT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SKIP_DIRS = {'.git', '.obsidian', '.github', 'kb', 'site', 'node_modules'}
 
 def build_page_map():
+    """Map each page to its vault-relative path. Keys: title, no-ext path, with-ext path."""
     page_map = {}
     for root, dirs, files in os.walk(VAULT_DIR):
         dirs[:] = [d for d in dirs if d not in SKIP_DIRS and not d.startswith('.')]
         for f in files:
-            if f.endswith('.md'):
-                full = os.path.join(root, f)
-                rel = os.path.relpath(full, VAULT_DIR)
-                title = f[:-3]
-                page_map[title] = rel
-                page_map[rel] = rel
+            if not f.endswith('.md'):
+                continue
+            full = os.path.join(root, f)
+            rel_with_ext = os.path.relpath(full, VAULT_DIR)
+            rel_no_ext = rel_with_ext[:-3]
+            title = f[:-3]
+            for key in (title, rel_no_ext, rel_with_ext, rel_with_ext.lower(), rel_no_ext.lower(), title.lower()):
+                if key not in page_map:
+                    page_map[key] = rel_with_ext
     return page_map
 
 def convert_wikilinks(content, page_map, current_dir):
@@ -32,10 +35,11 @@ def convert_wikilinks(content, page_map, current_dir):
         if not link:
             return match.group(0)
         link_lower = link.lower()
-        for title, path in page_map.items():
-            if title.lower() == link_lower or title == link:
-                rel = os.path.relpath(path, current_dir)
-                return f'[{text}]({rel})'
+        candidates = [link, link_lower, link + '.md']
+        for c in candidates:
+            if c in page_map:
+                resolved = os.path.relpath(page_map[c], current_dir)
+                return f'[{text}]({resolved})'
         return f'[{text}]({link})'
     return re.sub(r'(?<!!)\[\[([^\]]+)\]\]', replace_link, content)
 
@@ -46,16 +50,37 @@ def fix_md_links(content, page_map, current_dir):
         anchor = match.group(3) or ''
         if url.startswith(('http://', 'https://', 'mailto:')) or url.startswith('#'):
             return match.group(0)
-        # Try to resolve
-        file_part = url.split('#', 1)[0]
-        if not file_part or '/' not in file_part:
+        # Split file from anchor
+        if '#' in url:
+            file_part, _, frag = url.partition('#')
+            anchor = '#' + frag
+        else:
+            file_part = url
+        if not file_part:
             return match.group(0)
-        file_lower = file_part.lower().replace('.md', '')
-        for title, path in page_map.items():
-            title_lower = title.lower()
-            if title_lower == file_lower or title_lower.endswith('/' + file_lower):
-                resolved = os.path.relpath(path, current_dir)
+        # Strip .md extension from candidate
+        candidate = file_part[:-3] if file_part.lower().endswith('.md') else file_part
+        candidate_lower = candidate.lower()
+        # Try multiple lookup keys
+        candidates = [
+            candidate,
+            candidate_lower,
+            candidate + '.md',
+            candidate_lower + '.md',
+        ]
+        for c in candidates:
+            if c in page_map:
+                resolved = os.path.relpath(page_map[c], current_dir)
                 return f'[{text}]({resolved}{anchor})'
+        # Try resolving as relative path
+        if not candidate.startswith('/'):
+            rel_path = os.path.normpath(os.path.join(current_dir, candidate))
+            rel_no_ext = rel_path[:-3] if rel_path.lower().endswith('.md') else rel_path
+            for c in (rel_no_ext, rel_path):
+                if c in page_map or c + '.md' in page_map:
+                    actual = c if c in page_map else c + '.md'
+                    new_rel = os.path.relpath(page_map[actual], current_dir)
+                    return f'[{text}]({new_rel}{anchor})'
         return match.group(0)
     return re.sub(r'\[([^\]]*)\]\(([^)]+?)(#[^)]*)?\)', fix_link, content)
 
@@ -74,7 +99,7 @@ def process_file(filepath, page_map):
 def main():
     print("Converting Obsidian links → MkDocs-compatible links...")
     page_map = build_page_map()
-    print(f"  Found {len(page_map)} pages")
+    print(f"  Found {len(page_map)} entries ({len(set(page_map.values()))} unique pages)")
     count = 0
     for root, dirs, files in os.walk(VAULT_DIR):
         dirs[:] = [d for d in dirs if d not in SKIP_DIRS and not d.startswith('.')]

@@ -128,11 +128,11 @@
 
 ## 🔗 Связанные документы
 
-- [Business-Model](01-Project/Business-Model.md)
-- [Assortment](01-Project/Assortment.md)
+- [Business-Model](Business-Model.md)
+- [Assortment](Assortment.md)
 - [Success-Criteria](Success-Criteria.md) — критерии успеха
-- [Аналитика](03-Research/Analytics-Dashboard.md)
-- [План запуска](08-Marketing/Launch-Plan.md)
-- [../02-Audit/Epistemic-Audit](02-Audit/Epistemic-Audit.md) — коррекция
+- [Аналитика](../03-Research/Analytics-Dashboard.md)
+- [План запуска](../08-Marketing/Launch-Plan.md)
+- [../02-Audit/Epistemic-Audit](../02-Audit/Epistemic-Audit.md) — коррекция
 
-[⬅ MOC Project](01-Project/MOC-Project.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Project](MOC-Project.md) | [⬅ Главная](../00-Inbox/README.md)

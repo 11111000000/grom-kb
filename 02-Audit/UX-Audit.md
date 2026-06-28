@@ -176,10 +176,10 @@ Hero-баннер → УТП-блок → Каталог хитов → Каль
 
 ## 🔗 Связанные документы
 
-- [Technical-Audit](02-Audit/Technical-Audit.md) — технические баги
-- [Visual-Audit](02-Audit/Visual-Audit.md) — визуальные проблемы
-- [Content-Audit](02-Audit/Content-Audit.md) — контент-пробелы
-- [Макет главной](06-Design/Homepage-Layout.md)
-- [Макет карточки](06-Design/Product-Page-Layout.md)
+- [Technical-Audit](Technical-Audit.md) — технические баги
+- [Visual-Audit](Visual-Audit.md) — визуальные проблемы
+- [Content-Audit](Content-Audit.md) — контент-пробелы
+- [Макет главной](../06-Design/Homepage-Layout.md)
+- [Макет карточки](../06-Design/Product-Page-Layout.md)
 
-[⬅ MOC Audit](02-Audit/MOC-Audit.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Audit](MOC-Audit.md) | [⬅ Главная](../00-Inbox/README.md)

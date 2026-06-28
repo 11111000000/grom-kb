@@ -42,7 +42,7 @@
 
 ## 🟡 ГИПОТЕЗЫ без подтверждения (в Obsidian-файлах)
 
-### Файл: [Nordway](04-Competitors/Nordway.md)
+### Файл: [Nordway](Nordway.md)
 | Гипотеза | Статус | Что делать |
 |---|---|---|
 | Nordway — главный конкурент | 🟡 гипотеза | Проверить nordway.ru |
@@ -50,35 +50,35 @@
 | Ассортимент 50+ SKU | 🟡 гипотеза | Проверить на сайте |
 | 10+ лет на рынке | 🟡 гипотеза | Проверить историю |
 
-### Файл: [SkatePRO](04-Competitors/SkatePRO.md)
+### Файл: [SkatePRO](SkatePRO.md)
 | Гипотеза | Статус | Что делать |
 |---|---|---|
 | Премиум-сегмент | 🟡 гипотеза | Проверить skatepro.ru |
 | Цены 14 000-22 000 ₽ | 🔴 нет источника | Проверить на сайте |
 | Лучший UX в мире | 🟡 гипотеза | Субъективная оценка |
 
-### Файл: [Izhevsk](04-Competitors/Izhevsk.md)
+### Файл: [Izhevsk](Izhevsk.md)
 | Гипотеза | Статус | Что делать |
 |---|---|---|
 | Качество на уровне | 🟡 гипотеза | Нужны реальные отзывы |
 | Цены 5 000-15 000 ₽ | 🔴 нет источника | Проверить Авито, форумы |
 | Только самовывоз | 🟡 гипотеза | Уточнить |
 
-### Файл: [Market-Size](04-Competitors/Market-Size.md)
+### Файл: [Market-Size](Market-Size.md)
 | Гипотеза | Статус | Что делать |
 |---|---|---|
 | Outdoor-рынок РФ ~50 млрд ₽ | 🔴 нет источника | Найти отраслевой отчёт |
 | Зимний outdoor ~10% | 🔴 нет источника | Расчётная оценка |
 | Байсы — 1-2% outdoor | 🔴 нет источника | Экспертная оценка |
 
-### Файл: [Market-Trends](04-Competitors/Market-Trends.md)
+### Файл: [Market-Trends](Market-Trends.md)
 | Гипотеза | Статус | Что делать |
 |---|---|---|
 | Outdoor-туризм +30% с 2022 | 🔴 нет источника | Найти статистику |
 | Outdoor-YouTube растёт | 🟡 гипотеза | Проверить тренды |
 | Байкал зимой +30% трафика | 🔴 нет источника | Проверить статистику |
 
-### Файл: [Target-Audience](03-Research/Target-Audience.md)
+### Файл: [Target-Audience](../03-Research/Target-Audience.md)
 | Гипотеза | Статус | Что делать |
 |---|---|---|
 | 4 сегмента клиентов | 🟡 гипотеза | Интервью с реальными клиентами |
@@ -165,12 +165,12 @@
 
 ## 🔗 Связанные документы
 
-- [../02-Audit/Epistemic-Audit](02-Audit/Epistemic-Audit.md)
-- [Market-Size](04-Competitors/Market-Size.md)
-- [Market-Trends](04-Competitors/Market-Trends.md)
-- [Nordway](04-Competitors/Nordway.md)
-- [SkatePRO](04-Competitors/SkatePRO.md)
-- [Target-Audience](03-Research/Target-Audience.md)
-- [Personas](03-Research/Personas.md)
+- [../02-Audit/Epistemic-Audit](../02-Audit/Epistemic-Audit.md)
+- [Market-Size](Market-Size.md)
+- [Market-Trends](Market-Trends.md)
+- [Nordway](Nordway.md)
+- [SkatePRO](SkatePRO.md)
+- [Target-Audience](../03-Research/Target-Audience.md)
+- [Personas](../03-Research/Personas.md)
 
-[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Competitors](MOC-Competitors.md) | [⬅ Главная](../00-Inbox/README.md)

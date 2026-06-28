@@ -334,10 +334,10 @@ Workers AI       OpenAI         OpenAI
 
 ## 🔗 Связанные документы
 
-- [Stack-Dialectic-Analysis](07-Technical/Stack-Dialectic-Analysis.md) — общий анализ
+- [Stack-Dialectic-Analysis](Stack-Dialectic-Analysis.md) — общий анализ
 - [Stack-Dao-Approach](Stack-Dao-Approach.md) — Дао без бэка
-- [Stack-Dao-Small-Backend](07-Technical/Stack-Dao-Small-Backend.md) — этот документ
+- [Stack-Dao-Small-Backend](Stack-Dao-Small-Backend.md) — этот документ
 - [Stack-Recommendation](Stack-Recommendation.md) — финальная рекомендация (после обсуждения)
-- [../09-Decisions/ADR-001](09-Decisions/ADR-001.md) — редизайн
+- [../09-Decisions/ADR-001](../09-Decisions/ADR-001.md) — редизайн
 
-[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Tech](MOC-Tech.md) | [⬅ Главная](../00-Inbox/README.md)

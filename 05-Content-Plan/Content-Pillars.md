@@ -173,10 +173,10 @@
 
 ## 🔗 Связанные документы
 
-- [Product-Copy](05-Content-Plan/Product-Copy.md)
-- [Blog-Topics](05-Content-Plan/Blog-Topics.md)
-- [Content-Calendar](05-Content-Plan/Content-Calendar.md)
-- [SMM](08-Marketing/Social-Media.md)
-- [Email](08-Marketing/Email-Marketing.md)
+- [Product-Copy](Product-Copy.md)
+- [Blog-Topics](Blog-Topics.md)
+- [Content-Calendar](Content-Calendar.md)
+- [SMM](../08-Marketing/Social-Media.md)
+- [Email](../08-Marketing/Email-Marketing.md)
 
-[⬅ MOC Content](05-Content-Plan/MOC-Content.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Content](MOC-Content.md) | [⬅ Главная](../00-Inbox/README.md)

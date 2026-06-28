@@ -310,8 +310,8 @@ function get_product_schema() {
 
 ## 🔗 Связанные документы
 
-- [Schema-Audit](02-Audit/Schema-Audit.md)
-- [SEO-Tech](07-Technical/SEO-Tech.md) — техническое SEO
-- [Баги](02-Audit/Bugs-Баги.md)
+- [Schema-Audit](../02-Audit/Schema-Audit.md)
+- [SEO-Tech](SEO-Tech.md) — техническое SEO
+- [Баги](../02-Audit/Bugs-Баги.md)
 
-[⬅ MOC Tech](07-Technical/MOC-Tech.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Tech](MOC-Tech.md) | [⬅ Главная](../00-Inbox/README.md)

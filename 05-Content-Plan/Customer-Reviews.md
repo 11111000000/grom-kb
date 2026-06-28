@@ -163,10 +163,10 @@
 
 ## 🔗 Связанные документы
 
-- [../01-Project/Assortment](01-Project/Assortment.md) — ассортимент
-- [../02-Audit/Epistemic-Audit](02-Audit/Epistemic-Audit.md) — источник
-- [../05-Content-Plan/Product-Copy](05-Content-Plan/Product-Copy.md) — копирайтинг
-- [Email-маркетинг](08-Marketing/Email-Marketing.md)
-- [../03-Research/Personas](03-Research/Personas.md) — персоны
+- [../01-Project/Assortment](../01-Project/Assortment.md) — ассортимент
+- [../02-Audit/Epistemic-Audit](../02-Audit/Epistemic-Audit.md) — источник
+- [../05-Content-Plan/Product-Copy](Product-Copy.md) — копирайтинг
+- [Email-маркетинг](../08-Marketing/Email-Marketing.md)
+- [../03-Research/Personas](../03-Research/Personas.md) — персоны
 
-[⬅ MOC Content](05-Content-Plan/MOC-Content.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Content](MOC-Content.md) | [⬅ Главная](../00-Inbox/README.md)

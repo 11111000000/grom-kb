@@ -159,9 +159,9 @@
 
 ## 🔗 Связанные документы
 
-- [Business-Model](01-Project/Business-Model.md)
-- [../02-Audit/Epistemic-Audit](02-Audit/Epistemic-Audit.md)
-- [../05-Content-Plan/Product-Copy](05-Content-Plan/Product-Copy.md)
-- [Goals](01-Project/Goals.md)
+- [Business-Model](Business-Model.md)
+- [../02-Audit/Epistemic-Audit](../02-Audit/Epistemic-Audit.md)
+- [../05-Content-Plan/Product-Copy](../05-Content-Plan/Product-Copy.md)
+- [Goals](Goals.md)
 
-[⬅ MOC Project](01-Project/MOC-Project.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Project](MOC-Project.md) | [⬅ Главная](../00-Inbox/README.md)

@@ -134,10 +134,10 @@
 
 ## 🔗 Связанные документы
 
-- [Target-Audience](03-Research/Target-Audience.md)
-- [Personas](03-Research/Personas.md)
-- [Value-Proposition](03-Research/Value-Proposition.md)
-- [Brand-Platform](03-Research/Brand-Platform.md)
-- [Конкуренты](04-Competitors/MOC-Competitors.md)
+- [Target-Audience](Target-Audience.md)
+- [Personas](Personas.md)
+- [Value-Proposition](Value-Proposition.md)
+- [Brand-Platform](Brand-Platform.md)
+- [Конкуренты](../04-Competitors/MOC-Competitors.md)
 
-[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Research](MOC-Research.md) | [⬅ Главная](../00-Inbox/README.md)

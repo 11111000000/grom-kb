@@ -33,13 +33,13 @@ graph TD
 ## 📄 Страницы раздела
 
 ### Бизнес
-- [Business-Model](01-Project/Business-Model.md) — двойная бизнес-модель: производство + турагентство
-- [Assortment](01-Project/Assortment.md) — описание всех 6 SKU
+- [Business-Model](Business-Model.md) — двойная бизнес-модель: производство + турагентство
+- [Assortment](Assortment.md) — описание всех 6 SKU
 - [Pricing](Pricing.md) — ценовая политика
 - [Geography](Geography.md) — география и логистика
 
 ### Цели
-- [Goals](01-Project/Goals.md) — цели, KPI, метрики успеха
+- [Goals](Goals.md) — цели, KPI, метрики успеха
 - [Success-Criteria](Success-Criteria.md) — критерии успеха проекта
 
 ### Команда
@@ -50,11 +50,11 @@ graph TD
 
 ## 🔗 Связанные MOC
 
-- [Аудит](02-Audit/MOC-Audit.md)
-- [Исследования](03-Research/MOC-Research.md)
-- [Дизайн](06-Design/MOC-Design.md)
-- [Решения](09-Decisions/MOC-Decisions.md)
+- [Аудит](../02-Audit/MOC-Audit.md)
+- [Исследования](../03-Research/MOC-Research.md)
+- [Дизайн](../06-Design/MOC-Design.md)
+- [Решения](../09-Decisions/MOC-Decisions.md)
 
 ---
 
-[⬅ На главную](00-Inbox/README.md)
+[⬅ На главную](../00-Inbox/README.md)

@@ -71,8 +71,8 @@
 
 ## 🔗 Связанные документы
 
-- [Nordway](04-Competitors/Nordway.md)
-- [SkatePRO](04-Competitors/SkatePRO.md)
-- [Market-Map](04-Competitors/Market-Map.md)
+- [Nordway](Nordway.md)
+- [SkatePRO](SkatePRO.md)
+- [Market-Map](Market-Map.md)
 
-[⬅ MOC Competitors](04-Competitors/MOC-Competitors.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Competitors](MOC-Competitors.md) | [⬅ Главная](../00-Inbox/README.md)

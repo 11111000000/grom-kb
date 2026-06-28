@@ -57,7 +57,7 @@
 
 ## 🎨 Персоны
 
-Подробные описания — в [Personas](03-Research/Personas.md).
+Подробные описания — в [Personas](Personas.md).
 
 ---
 
@@ -78,10 +78,10 @@
 
 ## 🔗 Связанные документы
 
-- [Personas](03-Research/Personas.md) — детальные персоны
-- [Customer-Journey](03-Research/Customer-Journey.md) — карта пути
-- [Market-Size](04-Competitors/Market-Size.md) — объём рынка
-- [Positioning](03-Research/Positioning.md) — позиционирование
-- [Brand-Platform](03-Research/Brand-Platform.md) — бренд
+- [Personas](Personas.md) — детальные персоны
+- [Customer-Journey](Customer-Journey.md) — карта пути
+- [Market-Size](../04-Competitors/Market-Size.md) — объём рынка
+- [Positioning](Positioning.md) — позиционирование
+- [Brand-Platform](Brand-Platform.md) — бренд
 
-[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Research](MOC-Research.md) | [⬅ Главная](../00-Inbox/README.md)

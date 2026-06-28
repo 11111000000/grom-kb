@@ -89,4 +89,4 @@
 - [Bugs-Баги](Bugs-Баги.md) — список багов (не обновлялся)
 - [Critical-Issues](Critical-Issues.md) — критические проблемы
 
-[⬅ MOC Audit](MOC-Audit.md) | [⬅ Главная](../README)
+[⬅ MOC Audit](MOC-Audit.md) | [⬅ Главная](../README.md)

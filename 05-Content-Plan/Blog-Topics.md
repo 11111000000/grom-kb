@@ -123,9 +123,9 @@
 
 ## 🔗 Связанные документы
 
-- [Product-Copy](05-Content-Plan/Product-Copy.md) — описания товаров
-- [Content-Calendar](05-Content-Plan/Content-Calendar.md) — календарь
-- [Content-Pillars](05-Content-Plan/Content-Pillars.md) — рубрики
-- [SEO-аудит](02-Audit/SEO-Audit.md)
+- [Product-Copy](Product-Copy.md) — описания товаров
+- [Content-Calendar](Content-Calendar.md) — календарь
+- [Content-Pillars](Content-Pillars.md) — рубрики
+- [SEO-аудит](../02-Audit/SEO-Audit.md)
 
-[⬅ MOC Content](05-Content-Plan/MOC-Content.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Content](MOC-Content.md) | [⬅ Главная](../00-Inbox/README.md)

@@ -147,10 +147,10 @@
 
 ## 🔗 Связанные документы
 
-- [Positioning](03-Research/Positioning.md)
-- [Brand-Platform](03-Research/Brand-Platform.md)
-- [Target-Audience](03-Research/Target-Audience.md)
-- [Personas](03-Research/Personas.md)
-- [Customer-Journey](03-Research/Customer-Journey.md)
+- [Positioning](Positioning.md)
+- [Brand-Platform](Brand-Platform.md)
+- [Target-Audience](Target-Audience.md)
+- [Personas](Personas.md)
+- [Customer-Journey](Customer-Journey.md)
 
-[⬅ MOC Research](03-Research/MOC-Research.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Research](MOC-Research.md) | [⬅ Главная](../00-Inbox/README.md)

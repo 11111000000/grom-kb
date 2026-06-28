@@ -146,9 +146,9 @@
 
 ## 🔗 Связанные документы
 
-- [Launch-Plan](08-Marketing/Launch-Plan.md)
+- [Launch-Plan](Launch-Plan.md)
 - [Yandex-Direct](Yandex-Direct.md)
 - [VK-Ads](VK-Ads.md)
-- [Social-Media](08-Marketing/Social-Media.md)
+- [Social-Media](Social-Media.md)
 
-[⬅ MOC Marketing](08-Marketing/MOC-Marketing.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Marketing](MOC-Marketing.md) | [⬅ Главная](../00-Inbox/README.md)

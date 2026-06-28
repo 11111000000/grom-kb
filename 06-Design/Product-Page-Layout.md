@@ -324,10 +324,10 @@
 
 ## 🔗 Связанные документы
 
-- [Brand-Identity](06-Design/Brand-Identity.md)
-- [UI-Kit](06-Design/UI-Kit.md)
-- [Homepage-Layout](06-Design/Homepage-Layout.md)
-- [Category-Page-Layout](06-Design/Category-Page-Layout.md)
-- [Описания](05-Content-Plan/Product-Copy.md)
+- [Brand-Identity](Brand-Identity.md)
+- [UI-Kit](UI-Kit.md)
+- [Homepage-Layout](Homepage-Layout.md)
+- [Category-Page-Layout](Category-Page-Layout.md)
+- [Описания](../05-Content-Plan/Product-Copy.md)
 
-[⬅ MOC Design](06-Design/MOC-Design.md) | [⬅ Главная](00-Inbox/README.md)
+[⬅ MOC Design](MOC-Design.md) | [⬅ Главная](../00-Inbox/README.md)
