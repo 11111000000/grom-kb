@@ -26,25 +26,25 @@
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 24px 0; background: #1e2f3a; padding: 24px; border-radius: 4px;">
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-1.1-lightning-blade.svg" alt="Concept 1.1" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-1.1-lightning-blade.svg" alt="Concept 1.1" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">1.1 — классика</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-1.2-lightning-tilted.svg" alt="Concept 1.2" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-1.2-lightning-tilted.svg" alt="Concept 1.2" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">1.2 — наклон</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-1.3-lightning-outlined.svg" alt="Concept 1.3" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-1.3-lightning-outlined.svg" alt="Concept 1.3" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">1.3 — контур</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-1.4-lightning-geometric.svg" alt="Concept 1.4" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-1.4-lightning-geometric.svg" alt="Concept 1.4" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">1.4 — геометрия</code>
   </div>
@@ -76,25 +76,25 @@ inspired by Swiss design and Russian constructivism, vector logo for brand "GROM
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0; background: #1e2f3a; padding: 24px; border-radius: 4px;">
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-2.1-typography-grom.svg" alt="Concept 2.1" style="width: 80%; max-width: 200px; height: auto;">
+      <img src="../logo-variants/concept-2.1-typography-grom.svg" alt="Concept 2.1" style="width: 80%; max-width: 200px; height: auto;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">2.1 — горизонтальный, жирный</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-2.2-typography-with-icon.svg" alt="Concept 2.2" style="width: 80%; max-width: 200px; height: auto;">
+      <img src="../logo-variants/concept-2.2-typography-with-icon.svg" alt="Concept 2.2" style="width: 80%; max-width: 200px; height: auto;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">2.2 — О с молнией внутри</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-2.3-bolt-above-text.svg" alt="Concept 2.3" style="width: 80px; height: 100px;">
+      <img src="../logo-variants/concept-2.3-bolt-above-text.svg" alt="Concept 2.3" style="width: 80px; height: 100px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">2.3 — знак + текст верт.</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-2.4-mono-industrial.svg" alt="Concept 2.4" style="width: 80%; max-width: 200px; height: auto;">
+      <img src="../logo-variants/concept-2.4-mono-industrial.svg" alt="Concept 2.4" style="width: 80%; max-width: 200px; height: auto;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">2.4 — моно, индустриал.</code>
   </div>
@@ -126,25 +126,25 @@ for Russian ice skates manufacturer
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 24px 0; background: #1e2f3a; padding: 24px; border-radius: 4px;">
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-3.1-skate-tracks.svg" alt="Concept 3.1" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-3.1-skate-tracks.svg" alt="Concept 3.1" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">3.1 — два следа</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-3.2-tracks-with-bolt.svg" alt="Concept 3.2" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-3.2-tracks-with-bolt.svg" alt="Concept 3.2" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">3.2 — следы + молния</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-3.3-single-track.svg" alt="Concept 3.3" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-3.3-single-track.svg" alt="Concept 3.3" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">3.3 — один след, размытие</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-3.4-blade-profile.svg" alt="Concept 3.4" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-3.4-blade-profile.svg" alt="Concept 3.4" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">3.4 — профиль лезвия</code>
   </div>
@@ -176,25 +176,25 @@ and Siberian landscapes
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 24px 0; background: #1e2f3a; padding: 24px; border-radius: 4px;">
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-4.1-hex-crystal.svg" alt="Concept 4.1" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-4.1-hex-crystal.svg" alt="Concept 4.1" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">4.1 — гексагон + молния</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-4.2-faceted-crystal.svg" alt="Concept 4.2" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-4.2-faceted-crystal.svg" alt="Concept 4.2" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">4.2 — огранка</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-4.3-snowflake-bolt.svg" alt="Concept 4.3" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-4.3-snowflake-bolt.svg" alt="Concept 4.3" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">4.3 — снежинка + молния</code>
   </div>
   <div style="text-align: center;">
     <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="logo-variants/concept-4.4-diamond-premium.svg" alt="Concept 4.4" style="width: 64px; height: 64px;">
+      <img src="../logo-variants/concept-4.4-diamond-premium.svg" alt="Concept 4.4" style="width: 64px; height: 64px;">
     </div>
     <code style="color: #9fc2e8; font-size: 11px;">4.4 — алмаз, премиум</code>
   </div>
