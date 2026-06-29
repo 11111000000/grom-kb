@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Щит (геральдический) -->
+  <path d="M3 4 L29 4 L29 15 C29 22 24 28 16 30 C8 28 3 22 3 15 Z" fill="#1e2f3a" stroke="#1e2f3a" stroke-width="1"/>
+  <!-- Три молнии: 2 коротких фланкируют 1 центральную -->
+  <path d="M9 8 L5 14 L8 14 L6 19 L11 13 L8 13 Z" fill="#1e2f3a"/>
+  <path d="M17 6 L12 16 L17 16 L14 24 L21 14 L17 14 Z" fill="#1e2f3a"/>
+  <path d="M25 8 L21 14 L24 14 L22 19 L27 13 L24 13 Z" fill="#1e2f3a"/>
+</svg>

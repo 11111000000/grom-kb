@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" fill="none">
+  <!-- Молния/лезвие слева, вписано в 0..32 -->
+  <path d="M19 3 L7 18 L15 18 L11 30 L24 14 L17 14 Z" fill="#f4b942"/>
+  <!-- 38 справа крупным monospace: гарантирован в любой среде, в отличие от Inter -->
+  <text x="36" y="26" font-family="ui-monospace, 'JetBrains Mono', 'Courier New', monospace"
+        font-weight="900" font-size="22" fill="#9fc2e8" letter-spacing="-2">38</text>
+  <!-- Точки-заклёпки по углам для индустриального характера -->
+  <circle cx="2" cy="2" r="1" fill="#9fc2e8"/>
+  <circle cx="62" cy="2" r="1" fill="#9fc2e8"/>
+  <circle cx="2" cy="30" r="1" fill="#9fc2e8"/>
+  <circle cx="62" cy="30" r="1" fill="#9fc2e8"/>
+</svg>

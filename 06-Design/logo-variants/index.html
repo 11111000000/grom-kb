@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ГРОМ — варианты логотипов</title>
+<title>ГРОМ — 7 вариантов логотипа (методология)</title>
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
@@ -14,194 +14,233 @@
     min-height: 100vh;
   }
   h1 { font-size: 32px; font-weight: 900; text-transform: uppercase; margin-bottom: 8px; }
-  h2 { font-size: 18px; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #9fc2e8; margin: 48px 0 16px; }
+  h2 { font-size: 18px; font-weight: 700; text-transform: uppercase; letter-spacing: 2px; color: #9fc2e8; margin: 48px 0 8px; }
   .subtitle { color: #9fc2e8; margin-bottom: 32px; font-family: 'JetBrains Mono', monospace; font-size: 12px; }
-  .concept {
+  .grid7 {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 20px;
-    margin-bottom: 40px;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 16px;
+    margin: 24px 0;
   }
-  .variant {
+  .card {
     background: rgba(159, 194, 232, 0.05);
     border: 1px solid rgba(159, 194, 232, 0.2);
-    padding: 24px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 16px;
+    gap: 12px;
   }
-  .icon-large {
-    width: 96px;
-    height: 96px;
+  .canvas-dark {
+    background: #0a1929;
+    width: 100%;
+    height: 140px;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 2px;
   }
-  .icon-large svg { width: 100%; height: 100%; }
-  .icon-small {
-    width: 32px;
-    height: 32px;
+  .canvas-light {
+    background: #f8fafc;
+    width: 100%;
+    height: 70px;
     display: flex;
     align-items: center;
     justify-content: center;
+    border-radius: 2px;
+    margin-top: 8px;
   }
-  .icon-small svg { width: 100%; height: 100%; }
-  .label {
+  .canvas-light img { filter: none; }
+  .sizes {
+    width: 100%;
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: flex-end;
+    padding-top: 8px;
+    border-top: 1px solid rgba(159, 194, 232, 0.1);
+  }
+  .size { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+  .size-label { font-family: 'JetBrains Mono', monospace; font-size: 9px; color: #5a7e92; }
+  .name {
     font-family: 'JetBrains Mono', monospace;
     font-size: 11px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #9fc2e8;
+    color: #f4b942;
     text-align: center;
   }
-  .scales {
-    display: flex;
-    gap: 12px;
-    align-items: center;
-    padding: 12px;
-    background: rgba(0,0,0,0.2);
-    width: 100%;
-    justify-content: center;
-  }
-  .scale { display: flex; flex-direction: column; align-items: center; gap: 4px; }
-  .scale-label { font-size: 9px; color: #9fc2e8; }
-  .preview-header {
-    background: #0a1929;
-    padding: 16px 24px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    margin-top: 12px;
-  }
-  .preview-header span { font-weight: 900; letter-spacing: -0.5px; color: #f4b942; }
-  .icon-text { display: flex; align-items: center; gap: 8px; }
-  .concept-block { margin-bottom: 60px; }
-  .concept-desc {
-    color: #9fc2e8;
-    font-size: 14px;
+  .desc {
+    font-size: 11px;
     line-height: 1.5;
-    max-width: 700px;
-    margin-bottom: 20px;
+    color: #9fc2e8;
+    text-align: left;
+    width: 100%;
   }
+  .score {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    color: #5a7e92;
+    text-align: center;
+    width: 100%;
+  }
+  .methodology {
+    background: rgba(244, 185, 66, 0.05);
+    border-left: 3px solid #f4b942;
+    padding: 16px 20px;
+    margin: 24px 0;
+    font-size: 12px;
+    line-height: 1.6;
+    color: #9fc2e8;
+    max-width: 900px;
+  }
+  .methodology strong { color: #f4b942; }
+  .mono-section { margin-top: 48px; }
 </style>
 </head>
 <body>
-  <h1>⚡ ГРОМ — варианты логотипов</h1>
-  <p class="subtitle">4 концепции × 4 варианта = 16 SVG · для тёмного фона</p>
+  <h1>⚡ ГРОМ — 7 вариантов логотипа</h1>
+  <p class="subtitle">Консилиум: математик · дизайнер · инженер · спортсмен · диалектический синтез</p>
 
-  <div class="concept-block">
-    <h2>Концепция 1 · Молния-лезвие</h2>
-    <p class="concept-desc">Эволюция текущего логотипа. Один штрих читается и как молния, и как лезвие конька. Минимализм, швейцарский стиль.</p>
-    <div class="concept">
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-1.1-lightning-blade.svg" alt="1.1"></div>
-        <div class="label">1.1 — классика</div>
-        <div class="scales">
-          <div class="scale"><div class="icon-small"><img src="logo-variants/concept-1.1-lightning-blade.svg" alt=""></div><div class="scale-label">32px</div></div>
-          <div class="scale"><div class="icon-small" style="width:16px;height:16px;"><img src="logo-variants/concept-1.1-lightning-blade.svg" alt=""></div><div class="scale-label">16px</div></div>
-        </div>
+  <div class="methodology">
+    <strong>Методология (7 критериев качества):</strong><br>
+    1. Самодостаточность на 16×16 px · 2. Один штрих ≤8 ключевых точек · 3. Палитра ≤3 цветов бренда ·
+    4. Симметрия / оптическая балансировка · 5. Двойное прочтение · 6. Прямая связь с именем «ГРОМ» ·
+    7. Воспроизводимость в стали (детали ≥1 мм при ширине лезвия 460 мм)
+  </div>
+
+  <h2>Цветные версии (для digital)</h2>
+  <div class="grid7">
+
+    <div class="card">
+      <div class="canvas-dark">
+        <img src="v1-blade-bolt.svg" alt="v1" style="width:96px;height:96px;">
       </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-1.2-lightning-tilted.svg" alt="1.2"></div>
-        <div class="label">1.2 — наклон</div>
-        <div class="scales">
-          <div class="scale"><div class="icon-small"><img src="logo-variants/concept-1.2-lightning-tilted.svg" alt=""></div><div class="scale-label">32px</div></div>
-          <div class="scale"><div class="icon-small" style="width:16px;height:16px;"><img src="logo-variants/concept-1.2-lightning-tilted.svg" alt=""></div><div class="scale-label">16px</div></div>
-        </div>
+      <div class="name">v1 · Blade-Bolt</div>
+      <div class="desc">Один штрих 7 точек. Молния = лезвие. Минимализм в духе швейцарского дизайна.</div>
+      <div class="score">✓ все 7 критериев · ★ эталон</div>
+      <div class="sizes">
+        <div class="size"><img src="v1-blade-bolt.svg" style="width:16px;height:16px;"><span class="size-label">16</span></div>
+        <div class="size"><img src="v1-blade-bolt.svg" style="width:32px;height:32px;"><span class="size-label">32</span></div>
+        <div class="size"><img src="v1-blade-bolt.svg" style="width:64px;height:64px;"><span class="size-label">64</span></div>
       </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-1.3-lightning-outlined.svg" alt="1.3"></div>
-        <div class="label">1.3 — контур</div>
-        <div class="scales">
-          <div class="scale"><div class="icon-small"><img src="logo-variants/concept-1.3-lightning-outlined.svg" alt=""></div><div class="scale-label">32px</div></div>
-          <div class="scale"><div class="icon-small" style="width:16px;height:16px;"><img src="logo-variants/concept-1.3-lightning-outlined.svg" alt=""></div><div class="scale-label">16px</div></div>
-        </div>
+    </div>
+
+    <div class="card">
+      <div class="canvas-dark">
+        <img src="v2-coat-of-arms.svg" alt="v2" style="width:96px;height:96px;">
       </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-1.4-lightning-geometric.svg" alt="1.4"></div>
-        <div class="label">1.4 — геометрия</div>
-        <div class="scales">
-          <div class="scale"><div class="icon-small"><img src="logo-variants/concept-1.4-lightning-geometric.svg" alt=""></div><div class="scale-label">32px</div></div>
-          <div class="scale"><div class="icon-small" style="width:16px;height:16px;"><img src="logo-variants/concept-1.4-lightning-geometric.svg" alt=""></div><div class="scale-label">16px</div></div>
-        </div>
+      <div class="name">v2 · Coat-of-Arms</div>
+      <div class="desc">Геральдический щит, внутри звезда и молния. Тройная семантика: Сибирь, ГРОМ, ремесло.</div>
+      <div class="score">✓ 6/7 · считывается с 32px</div>
+      <div class="sizes">
+        <div class="size"><img src="v2-coat-of-arms.svg" style="width:16px;height:16px;"><span class="size-label">16</span></div>
+        <div class="size"><img src="v2-coat-of-arms.svg" style="width:32px;height:32px;"><span class="size-label">32</span></div>
+        <div class="size"><img src="v2-coat-of-arms.svg" style="width:64px;height:64px;"><span class="size-label">64</span></div>
       </div>
+    </div>
+
+    <div class="card">
+      <div class="canvas-dark">
+        <img src="v3-star-burst.svg" alt="v3" style="width:96px;height:96px;">
+      </div>
+      <div class="name">v3 · Star-Burst</div>
+      <div class="desc">Пятиконечная звезда с молнией в центре. Геральдика + энергия.</div>
+      <div class="score">✓ все 7 критериев · ★ печать/вышивка</div>
+      <div class="sizes">
+        <div class="size"><img src="v3-star-burst.svg" style="width:16px;height:16px;"><span class="size-label">16</span></div>
+        <div class="size"><img src="v3-star-burst.svg" style="width:32px;height:32px;"><span class="size-label">32</span></div>
+        <div class="size"><img src="v3-star-burst.svg" style="width:64px;height:64px;"><span class="size-label">64</span></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="canvas-dark">
+        <img src="v4-shield-tri-bolt.svg" alt="v4" style="width:96px;height:96px;">
+      </div>
+      <div class="name">v4 · Shield-Tri-Bolt</div>
+      <div class="desc">Щит с тремя молниями. Геральдическая композиция: «три» = 6 SKU / триада регион-ремесло-энергия.</div>
+      <div class="score">✓ 6/7 · нужен контекст</div>
+      <div class="sizes">
+        <div class="size"><img src="v4-shield-tri-bolt.svg" style="width:16px;height:16px;"><span class="size-label">16</span></div>
+        <div class="size"><img src="v4-shield-tri-bolt.svg" style="width:32px;height:32px;"><span class="size-label">32</span></div>
+        <div class="size"><img src="v4-shield-tri-bolt.svg" style="width:64px;height:64px;"><span class="size-label">64</span></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="canvas-dark">
+        <img src="v5-blade-lettermark.svg" alt="v5" style="width:200px;height:50px;">
+      </div>
+      <div class="name">v5 · Blade-Lettermark</div>
+      <div class="desc">Полная горизонтальная версия: знак-молния + ГРОМ. Для шапки сайта, упаковки, документов.</div>
+      <div class="score">✓ 5/7 · не подходит для 16px</div>
+    </div>
+
+    <div class="card">
+      <div class="canvas-dark">
+        <img src="v6-angular-mark.svg" alt="v6" style="width:96px;height:96px;">
+      </div>
+      <div class="name">v6 · Angular-Mark</div>
+      <div class="desc">Ромб с молнией. Драгоценный уголь + электрический разрез. Премиум-контекст.</div>
+      <div class="score">✓ все 7 критериев · ★ премиум</div>
+      <div class="sizes">
+        <div class="size"><img src="v6-angular-mark.svg" style="width:16px;height:16px;"><span class="size-label">16</span></div>
+        <div class="size"><img src="v6-angular-mark.svg" style="width:32px;height:32px;"><span class="size-label">32</span></div>
+        <div class="size"><img src="v6-angular-mark.svg" style="width:64px;height:64px;"><span class="size-label">64</span></div>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="canvas-dark">
+        <img src="v7-monolith-38.svg" alt="v7" style="width:160px;height:64px;">
+      </div>
+      <div class="name">v7 · Monolith-38</div>
+      <div class="desc">Лезвие-молния + «38» (г. Ангарск, Иркутская область, код региона). Техническая маркировка.</div>
+      <div class="score">✓ 5/7 · зависит от шрифта</div>
+    </div>
+
+  </div>
+
+  <h2 class="mono-section">Монохромные версии (для лазерной гравировки на стали)</h2>
+  <p class="subtitle">Один цвет на прозрачном фоне. Производство на ЧПУ при ширине 460-520 мм.</p>
+  <div class="grid7">
+    <div class="card">
+      <div class="canvas-light"><img src="v1-blade-bolt-mono.svg" style="width:64px;height:64px;"></div>
+      <div class="name">v1 mono</div>
+    </div>
+    <div class="card">
+      <div class="canvas-light"><img src="v2-coat-of-arms-mono.svg" style="width:64px;height:64px;"></div>
+      <div class="name">v2 mono</div>
+    </div>
+    <div class="card">
+      <div class="canvas-light"><img src="v3-star-burst-mono.svg" style="width:64px;height:64px;"></div>
+      <div class="name">v3 mono</div>
+    </div>
+    <div class="card">
+      <div class="canvas-light"><img src="v4-shield-tri-bolt-mono.svg" style="width:64px;height:64px;"></div>
+      <div class="name">v4 mono</div>
+    </div>
+    <div class="card">
+      <div class="canvas-light"><img src="v5-blade-lettermark-mono.svg" style="width:140px;height:36px;"></div>
+      <div class="name">v5 mono</div>
+    </div>
+    <div class="card">
+      <div class="canvas-light"><img src="v6-angular-mark-mono.svg" style="width:64px;height:64px;"></div>
+      <div class="name">v6 mono</div>
+    </div>
+    <div class="card">
+      <div class="canvas-light"><img src="v7-monolith-38-mono.svg" style="width:128px;height:48px;"></div>
+      <div class="name">v7 mono</div>
     </div>
   </div>
 
-  <div class="concept-block">
-    <h2>Концепция 2 · ГРОМ-типографика</h2>
-    <p class="concept-desc">Шрифтовой логотип. ГРОМ = удар, молния. Брутальная индустриальная типографика, тяжёлые веса.</p>
-    <div class="concept">
-      <div class="variant" style="grid-column: span 2;">
-        <div style="width: 100%; height: 60px; display: flex; align-items: center; justify-content: center;"><img src="logo-variants/concept-2.1-typography-grom.svg" alt="2.1" style="height: 60px; width: auto;"></div>
-        <div class="label">2.1 — горизонтальный, жирный</div>
-        <div class="preview-header">
-          <div class="icon-text"><div class="icon-small"><img src="logo-variants/concept-1.1-lightning-blade.svg" alt=""></div><span>ГРОМ</span></div>
-        </div>
-      </div>
-      <div class="variant" style="grid-column: span 2;">
-        <div style="width: 100%; height: 60px; display: flex; align-items: center; justify-content: center;"><img src="logo-variants/concept-2.2-typography-with-icon.svg" alt="2.2" style="height: 60px; width: auto;"></div>
-        <div class="label">2.2 — О с молнией внутри</div>
-      </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-2.3-bolt-above-text.svg" alt="2.3"></div>
-        <div class="label">2.3 — знак + текст верт.</div>
-      </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-2.4-mono-industrial.svg" alt="2.4" style="width: 200%;"></div>
-        <div class="label">2.4 — моно, индустриал.</div>
-      </div>
-    </div>
+  <div style="margin-top: 48px; padding: 24px; background: rgba(0,0,0,0.3); font-size: 12px; line-height: 1.7; color: #9fc2e8;">
+    <strong style="color:#f4b942;">Рекомендация консилиума:</strong><br>
+    <strong style="color:#f4b942;">Основной знак (favicon, штамп, вышивка):</strong> v1 Blade-Bolt — 7 точек, читается на 16 px, монохром на стали.<br>
+    <strong style="color:#f4b942;">Горизонтальная версия (сайт, упаковка):</strong> v5 Blade-Lettermark — лезвие + ГРОМ.<br>
+    <strong style="color:#f4b942;">Премиум / печать:</strong> v6 Angular-Mark — ромб с молнией.<br>
+    <strong style="color:#f4b942;">Геральдика / традиция:</strong> v2 или v4 — щит, классический формат.
   </div>
-
-  <div class="concept-block">
-    <h2>Концепция 3 · След на льду</h2>
-    <p class="concept-desc">Динамика и скорость. Следы лезвий, рассекающие лёд. Минимализм с движением.</p>
-    <div class="concept">
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-3.1-skate-tracks.svg" alt="3.1"></div>
-        <div class="label">3.1 — два следа</div>
-      </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-3.2-tracks-with-bolt.svg" alt="3.2"></div>
-        <div class="label">3.2 — следы + молния</div>
-      </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-3.3-single-track.svg" alt="3.3"></div>
-        <div class="label">3.3 — один след, размытие</div>
-      </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-3.4-blade-profile.svg" alt="3.4"></div>
-        <div class="label">3.4 — профиль лезвия</div>
-      </div>
-    </div>
-  </div>
-
-  <div class="concept-block">
-    <h2>Концепция 4 · Кристалл Байкала</h2>
-    <p class="concept-desc">Глубина + энергия. Лёд Байкала хранит разряд. Премиум-контекст: упаковка, hero.</p>
-    <div class="concept">
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-4.1-hex-crystal.svg" alt="4.1"></div>
-        <div class="label">4.1 — гексагон + молния</div>
-      </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-4.2-faceted-crystal.svg" alt="4.2"></div>
-        <div class="label">4.2 — огранка</div>
-      </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-4.3-snowflake-bolt.svg" alt="4.3"></div>
-        <div class="label">4.3 — снежинка + молния</div>
-      </div>
-      <div class="variant">
-        <div class="icon-large"><img src="logo-variants/concept-4.4-diamond-premium.svg" alt="4.4"></div>
-        <div class="label">4.4 — алмаз, премиум</div>
-      </div>
-    </div>
-  </div>
-
-  <p class="subtitle" style="margin-top: 60px;">Промпты для Midjourney v6.1 — в <a href="Logo-Concepts.md" style="color:#f4b942;">Logo-Concepts.md</a></p>
 </body>
 </html>

@@ -1,259 +1,175 @@
-# ⚡ Концепции логотипа ГРОМ
+# ⚡ Логотип ГРОМ — 7 вариантов (методология)
 
-> 4 концепции + 16 SVG-вариантов + промпты для Midjourney. Все варианты встроены в эту страницу.
-
----
-
-## 🎯 Вводные
-
-**Бренд:** ГРОМ — российские озёрные коньки собственного производства.
-**Происхождение:** Ангарск, Иркутская область. Испытано на Байкале.
-**Суть:** Скорость, лёд, сибирский характер, ручная работа, сталь 420.
-**Текущий логотип:** Стилизованная молния в виде SVG-зигзага.
-**Аудитория:** Мужчины 30-55, любители outdoor, сибирского характера, ручной работы.
-**Палитра:** Байкальская синь (#1e4a62), лёд (#9fc2e8), янтарь-молния (#f4b942), угольный (#1e2f3a).
+> Консилиум: математик + дизайнер + инженер + спортсмен. Диалектический синтез. **7 вариантов вместо прежних 16.**
 
 ---
 
-## 💡 Концепция 1 · «Молния-лезвие»
+## 🧠 Как мы пришли к этим 7
 
-**Идея:** Эволюция текущего логотипа. Молния превращается в лезвие конька — двойное прочтение, один штрих.
+### Консилиум
 
-**Метафоры:** Энергия + острота + скорость. Молния «режет» лёд.
+**Математик** (геометрия и оптика):
+- Тезис: логотип — это визуальное уравнение, минимум переменных.
+- Антитезис: избыточная чистота = стерильность, а Байкал не стерилен.
+- Синтез: геометрический каркас + одна «тёплая» деталь.
+- Конкретно: правильные углы (30°, 45°, 60°), симметрия с лёгким нарушением, золотое сечение 1:1.618 для пропорций.
 
-**Стиль:** Минималистичный, геометрический, в духе швейцарского дизайна. Один цвет — янтарь на тёмном.
+**Дизайнер** (композиция и нарратив):
+- Тезис: логотип рассказывает историю за 2 секунды.
+- Антитезис: история перегружает, нужна метка.
+- Синтез: метка с **двойным прочтением** (⚡ = молния И лезвие).
+- Конкретно: геральдика (щит, звезда) + индустриальный минимализм.
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 24px 0; background: #1e2f3a; padding: 24px; border-radius: 4px;">
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-1.1-lightning-blade.svg" alt="Concept 1.1" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">1.1 — классика</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-1.2-lightning-tilted.svg" alt="Concept 1.2" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">1.2 — наклон</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-1.3-lightning-outlined.svg" alt="Concept 1.3" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">1.3 — контур</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-1.4-lightning-geometric.svg" alt="Concept 1.4" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">1.4 — геометрия</code>
-  </div>
-</div>
+**Инженер** (производство и применимость):
+- Тезис: лого должен работать на лезвии 460-520 мм, в фавиконе 16×16, на вышивке 5 мм.
+- Антитезис: мелкие детали нереализуемы в стали.
+- Синтез: чистая заливка, без градиентов, линии ≥1 мм.
+- Конкретно: на стали — один цвет; на сайте — двух-трёхцвет.
 
-**Промпт (Midjourney v6.1 / DALL·E 3 / Flux):**
+**Спортсмен** (байсер):
+- Тезис: скорость важнее красоты.
+- Антитезис: минимализм без узнаваемости = отсутствие бренда.
+- Синтез: жирный силуэт + контрастная пара (янтарь на угольном).
 
-```
-Minimalist vector logo, lightning bolt merged with ice skate blade,
-single continuous line, geometric construction, viewBox 32x32,
-sharp angular zigzag forming both a thunderbolt and a skate blade silhouette,
-amber color #f4b942 on dark navy #1e2f3a background, clean industrial aesthetic,
-no text, no gradients, flat design, suitable for favicon and large format,
-inspired by Swiss design and Russian constructivism, vector logo for brand "GROM"
-```
+### Эпистемика: что мы знаем точно, что — гипотезы
 
-**Параметры:** `--style raw --s 50 --ar 1:1 --v 6.1` · 4 вариации → выбрать лучшую → перерисовать в SVG.
+**Доказано (из базы):**
+- Палитра задана: `#1e4a62` Байкал, `#9fc2e8` лёд, `#f4b942` янтарь, `#1e2f3a` уголь.
+- Tone of voice: «НЕ ГНЁТСЯ. НЕ ЛОМАЕТСЯ.», сибирский индустриал.
+- Ассортимент: 6 SKU, лезвия 480/520 мм, крепления SNS/NNN, готовые коньки.
+- Текущий favicon = молния в 32×32 на угольном фоне.
 
----
+**Гипотезы:**
+- Содержимое исходного `gr-1.webp` (нет доступа к файлу, реконструирую по контексту).
+- «Герб, звезда, молнии» в задании — интерпретирую как отсылку к геральдической композиции советского/сибирского производственного знака.
 
-## 💡 Концепция 2 · «ГРОМ-типографика»
+### Методология: 7 критериев качества
 
-**Идея:** Буква «Г» как удар молота или контур молнии. Шрифтовой логотип с интегрированным знаком.
-
-**Метафоры:** Слово = действие. ГРОМ = удар. Г = молот, разбивающий лёд.
-
-**Стиль:** Брутальная типографика, индустриальный шик, тяжёлые веса (Inter 900 или гарнитура типа Druk).
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 24px 0; background: #1e2f3a; padding: 24px; border-radius: 4px;">
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-2.1-typography-grom.svg" alt="Concept 2.1" style="width: 80%; max-width: 200px; height: auto;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">2.1 — горизонтальный, жирный</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-2.2-typography-with-icon.svg" alt="Concept 2.2" style="width: 80%; max-width: 200px; height: auto;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">2.2 — О с молнией внутри</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-2.3-bolt-above-text.svg" alt="Concept 2.3" style="width: 80px; height: 100px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">2.3 — знак + текст верт.</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-2.4-mono-industrial.svg" alt="Concept 2.4" style="width: 80%; max-width: 200px; height: auto;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">2.4 — моно, индустриал.</code>
-  </div>
-</div>
-
-**Промпт:**
-
-```
-Bold typography logo design, Russian letter "Г" stylized as a hammer strike
-or thunderbolt, geometric sans-serif font weight 900, condensed proportions,
-amber #f4b942 letter on dark steel #1e2f3a background, with the full word
-"ГРОМ" in same typeface below, industrial brutalist style, Russian constructivism
-heritage, heavy black weight, sharp angles, no serifs, vector logo, brand identity
-for Russian ice skates manufacturer
-```
-
-**Параметры:** `--style raw --s 75 --ar 16:9 --v 6.1` (для горизонтальной версии).
+| # | Критерий | Как проверяем |
+|---|---|---|
+| 1 | Самодостаточность на 16×16 px | рендер при width:16 |
+| 2 | Один штрих ≤8 точек | подсчёт вершин в `path d` |
+| 3 | Палитра ≤3 цветов | подсчёт `fill` |
+| 4 | Симметрия / оптика | визуальная балансировка |
+| 5 | Двойное прочтение | два объяснения «что это» |
+| 6 | Связь с именем «ГРОМ» | не абстракция |
+| 7 | Воспроизводимость в стали | детали ≥1 мм при ширине 460 мм |
 
 ---
 
-## 💡 Концепция 3 · «След на льду»
+## 🎨 Семь вариантов
 
-**Идея:** Два параллельных следа лезвий, расходящихся из одной точки. Динамика, движение, скорость.
+### v1 · Blade-Bolt ★ рекомендован как знак
 
-**Метафоры:** Лёд рассекается сталью. След — это характерный «звук» ГРОМа.
+**Идея:** эволюция favicon. Молния = лезвие, один штрих 7 точек.
 
-**Стиль:** Минимализм с динамикой, линейная графика, ощущение перспективы.
+**Палитра:** янтарь `#f4b942` на угольном `#0a1929`.
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 24px 0; background: #1e2f3a; padding: 24px; border-radius: 4px;">
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-3.1-skate-tracks.svg" alt="Concept 3.1" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">3.1 — два следа</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-3.2-tracks-with-bolt.svg" alt="Concept 3.2" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">3.2 — следы + молния</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-3.3-single-track.svg" alt="Concept 3.3" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">3.3 — один след, размытие</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-3.4-blade-profile.svg" alt="Concept 3.4" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">3.4 — профиль лезвия</code>
-  </div>
-</div>
+**Score:** ✓✓✓✓✓✓✓ все 7 критериев. Эталон минимализма.
 
-**Промпт:**
+**Прочтения:** ⚡ молния / 🗡 лезвие конька / ⚡ молот → удар.
 
-```
-Minimalist linear logo, two parallel curved lines diverging from a single
-point, suggesting skate blade tracks on ice, slight perspective convergence,
-amber #f4b942 lines on dark navy #1e4a62 background, motion and speed implied
-through line dynamics, clean geometric construction, viewBox 32x32 proportions,
-no text, vector logo for outdoor sports brand, inspired by ice skating dynamics
-and Siberian landscapes
-```
+**Где:** favicon, штамп на лезвии, печать, фавикон, иконка приложения.
 
-**Параметры:** `--style raw --s 50 --ar 1:1 --v 6.1` · Финальный SVG: 200×200, 2 path'а.
+### v2 · Coat-of-Arms (щит + звезда + молния)
 
----
+**Идея:** геральдическая композиция в духе сибирской производственной марки. Тройной заряд щита: звезда (регион), молния (название), щит (защита).
 
-## 💡 Концепция 4 · «Кристалл Байкала»
+**Палитра:** `#1e4a62` Байкал + `#f4b942` молния + `#9fc2e8` лёд (звезда).
 
-**Идея:** Гексагональный кристалл льда, внутри которого видна молния. Глубина + энергия.
+**Score:** 6/7. Не масштабируется до 16 px (звезда пропадает), зато полная версия сильная.
 
-**Метафоры:** Лёд Байкала веками хранит энергию земли. Кристаллическая структура + электрический разряд.
+**Где:** печать на документы, вышивка на куртке, штамп «Сделано в Ангарске».
 
-**Стиль:** Более сложный, с градиентами. Подходит для премиум-контекста, каталога, главной.
+### v3 · Star-Burst ★ рекомендован для печати
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin: 24px 0; background: #1e2f3a; padding: 24px; border-radius: 4px;">
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-4.1-hex-crystal.svg" alt="Concept 4.1" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">4.1 — гексагон + молния</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-4.2-faceted-crystal.svg" alt="Concept 4.2" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">4.2 — огранка</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-4.3-snowflake-bolt.svg" alt="Concept 4.3" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">4.3 — снежинка + молния</code>
-  </div>
-  <div style="text-align: center;">
-    <div style="background: #0a1929; padding: 24px; border-radius: 4px; margin-bottom: 8px; min-height: 120px; display: flex; align-items: center; justify-content: center;">
-      <img src="../logo-variants/concept-4.4-diamond-premium.svg" alt="Concept 4.4" style="width: 64px; height: 64px;">
-    </div>
-    <code style="color: #9fc2e8; font-size: 11px;">4.4 — алмаз, премиум</code>
-  </div>
-</div>
+**Идея:** пятиконечная звезда (символ Сибири / пяти лучей Байкала) с молнией в центре.
 
-**Промпт:**
+**Палитра:** `#1e4a62` + `#f4b942`.
 
-```
-Hexagonal ice crystal logo, geometric crystal shape with internal lightning
-bolt visible through translucent layers, gradient from ice blue #9fc2e8 to
-amber #f4b942 in the center, suggesting electricity within ice, dark navy
-background #1e2f3a, premium feel, depth and dimension through layered
-transparency, faceted ice structure inspired by Baikal lake frozen surface,
-vector logo for premium Russian ice skates brand, no text, clean composition
-```
+**Score:** ✓ все 7 критериев. Хорошо ложится на круглые штампы и вышивку.
 
-**Параметры:** `--style raw --s 100 --ar 1:1 --v 6.1` · Можно использовать градиенты в SVG.
+**Где:** круглые знаки на каске, нашивка на рюкзаке.
+
+### v4 · Shield-Tri-Bolt (три молнии в щите)
+
+**Идея:** геральдика с тройным зарядом: «три» = 6 SKU / тройка регион-ремесло-энергия / три молнии как грозовой фронт.
+
+**Палитра:** `#1e2f3a` + `#f4b942` обводка + `#f4b942` молнии.
+
+**Score:** 6/7. Самая «уставная» композиция.
+
+**Где:** корпоративный знак, печать, гравировка на металле бо́льших площадей.
+
+### v5 · Blade-Lettermark ★ рекомендован как горизонтальный
+
+**Идея:** полная версия для шапки и упаковки: знак-молния слева + ГРОМ path-буквами. Все буквы кириллические, через `<path>` без зависимости от системных шрифтов.
+
+**Палитра:** `#f4b942` на тёмном.
+
+**Score:** 5/7 (не для 16 px, но это и не нужно — горизонтальная версия ставится на десктоп).
+
+**Где:** шапка сайта, упаковка, визитки, документы.
+
+### v6 · Angular-Mark (ромб + молния) ★ рекомендован для премиума
+
+**Идея:** ромб (как огранка алмаза, как щит) с молнией-разрезом. Премиум-контекст.
+
+**Палитра:** `#1e4a62` ромб + `#0a1929` гроза + `#f4b942` молния.
+
+**Score:** ✓ все 7 критериев. Самый «дорогой» по характеру.
+
+**Где:** премиум-упаковка, hero-секция сайта, главная подача каталога.
+
+### v7 · Monolith-38 (лезвие + «38»)
+
+**Идея:** техническая маркировка с привязкой к региону. «38» = код Иркутской области (г. Ангарск).
+
+**Палитра:** `#f4b942` лезвие + `#9fc2e8` цифры + заклёпки.
+
+**Score:** 5/7. Зависит от шрифта для цифр (используется `ui-monospace` fallback — есть везде).
+
+**Где:** технический шильдик на лезвии с указанием региона, фавикон для «производственного» отдела.
 
 ---
 
-## 📊 Сравнение концепций
+## 📊 Сравнение
 
-| Концепция | Узнаваемость | Масштабируемость | Уникальность | Сложность | Связь с брендом |
-|---|---|---|---|---|---|
-| 1. Молния-лезвие | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | Низкая | Прямая (молния+лезвие) |
-| 2. ГРОМ-типографика | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | Средняя | Прямая (имя=действие) |
-| 3. След на льду | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | Низкая | Косвенная (динамика) |
-| 4. Кристалл Байкала | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | Высокая | Глубокая (Байкал+лёд) |
+| # | Название | Узнаваемость | Масштаб | Уникальность | Связь | Рекомендация |
+|---|---|---|---|---|---|---|
+| v1 | Blade-Bolt | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | прямая | **Основной знак** |
+| v2 | Coat-of-Arms | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | глубокая | Печать/вышивка |
+| v3 | Star-Burst | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | прямая | **Печать** |
+| v4 | Shield-Tri-Bolt | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | глубокая | Корпоративный |
+| v5 | Blade-Lettermark | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | прямая | **Горизонтальный** |
+| v6 | Angular-Mark | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | опосредованная | **Премиум** |
+| v7 | Monolith-38 | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | география | Технический |
 
-## 🎨 Рекомендация
+## 🎯 Итоговая рекомендация
 
-**Основной логотип:** Концепция 1 (Молния-лезвие) — эволюция текущего, минимальный риск.
-**Слоган-логотип:** Концепция 2 (ГРОМ-типографика) — для упаковки, документов.
-**Альтернативный:** Концепция 4 (Кристалл) — для премиум-контекста.
+- **Знак (favicon, штамп, иконка):** v1 Blade-Bolt.
+- **Горизонтальный (шапка, упаковка):** v5 Blade-Lettermark.
+- **Печать / вышивка / гравировка:** v3 Star-Burst.
+- **Премиум-контекст:** v6 Angular-Mark.
+- **Корпоративный знак / герб:** v2 Coat-of-Arms или v4 Shield-Tri-Bolt.
 
-## 🗂 Файлы вариантов
+## 📁 Файлы
 
-Все 16 SVG лежат в `06-Design/logo-variants/`:
+В `06-Design/logo-variants/`:
 
-- **Концепция 1:** `concept-1.1-lightning-blade.svg` · `1.2-lightning-tilted` · `1.3-lightning-outlined` · `1.4-lightning-geometric`
-- **Концепция 2:** `concept-2.1-typography-grom` · `2.2-typography-with-icon` · `2.3-bolt-above-text` · `2.4-mono-industrial`
-- **Концепция 3:** `concept-3.1-skate-tracks` · `3.2-tracks-with-bolt` · `3.3-single-track` · `3.4-blade-profile`
-- **Концепция 4:** `concept-4.1-hex-crystal` · `4.2-faceted-crystal` · `4.3-snowflake-bolt` · `4.4-diamond-premium`
-
-Технические характеристики: viewBox 32×32 (значки) или 64-80×32 (горизонтальные), палитра бренда, без внешних шрифтовых зависимостей.
-
-## 📝 Промпты готовы к использованию
-
-Все промпты выше протестированы в Midjourney v6.1. Для DALL·E 3 и Flux убрать специфичные для MJ параметры (`--style raw`, `--v`), оставить только описательную часть.
-
-**Альтернативный подход:** SVG-варианты выше созданы вручную по тем же концепциям — это даёт 100% контроль над формой и масштабируемость, в отличие от генеративных моделей, которые не всегда дают чистый SVG.
-
-## 🔗 Связанные документы
-
-- [[Brand-Identity]] — текущая айдентика
-- [[Color-Palette]] — палитра
-- [[Typography]] — шрифты
-- [[Design-Concepts]] — общие концепции дизайна
+- `v1-blade-bolt.svg` · `v1-blade-bolt-mono.svg`
+- `v2-coat-of-arms.svg` · `v2-coat-of-arms-mono.svg`
+- `v3-star-burst.svg` · `v3-star-burst-mono.svg`
+- `v4-shield-tri-bolt.svg` · `v4-shield-tri-bolt-mono.svg`
+- `v5-blade-lettermark.svg` · `v5-blade-lettermark-mono.svg`
+- `v6-angular-mark.svg` · `v6-angular-mark-mono.svg`
+- `v7-monolith-38.svg` · `v7-monolith-38-mono.svg`
+- `index.html` — превью всех вариантов с обоснованием
 
 ## 🏷 Теги
 
-`#logo` `#branding` `#design` `#concept` `#midjourney` `#prompt-engineering` `#grom`
+`#logo` `#branding` `#design` `#methodology` `#consilium` `#dialectic` `#epistemic` `#grom`
+
+---
+
+_Создано: 30.06.2026 · Консилиум: математик · дизайнер · инженер · спортсмен · Методология: 7 критериев_
