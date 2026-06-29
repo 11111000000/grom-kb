@@ -1,6 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <!-- Concept 1.4: Lightning + Blade (geometric, Swiss style) -->
-  <!-- Pure geometry: rectangles forming lightning, ultra-minimal -->
-  <polygon points="18,2 10,16 14,16 12,30 22,14 18,14" fill="#f4b942"/>
-  <rect x="14" y="29" width="4" height="2" fill="#f4b942"/>
+  <polygon points="18,4 10,17 14,17 12,27 22,15 18,15" fill="#f4b942"/>
+  <rect x="11" y="27" width="2" height="3" fill="#f4b942"/>
 </svg>

@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 40" fill="none">
-  <!-- Concept 2.3: Typography — Vertical stack: bolt + ГРОМ -->
-  <path d="M19 2 L8 18 L15 18 L11 30 L24 14 L17 14 Z" fill="#f4b942"/>
-  <text x="32" y="22" font-family="Inter, system-ui, sans-serif" font-weight="900" font-size="14" fill="#f4b942" text-anchor="middle" letter-spacing="2">ГРОМ</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 116 90" fill="none">
+  <path d="M58 4 L40 26 L49 26 L44 42 L70 22 L61 22 Z" fill="#f4b942"/>
+  <g fill="#f4b942">
+    <path d="M4 56 L4 86 L12 86 L12 70 L24 70 L24 62 L12 62 L12 56 Z"/>
+    <path d="M28 56 L28 86 L36 86 L36 74 L44 74 C52 74 56 70 56 64 C56 58 52 56 44 56 Z M36 62 L44 62 C46 62 48 62 48 64 C48 66 46 67 44 67 L36 67 Z"/>
+    <path fill-rule="evenodd" d="M64 56 C56 56 52 60 52 70 C52 80 56 86 64 86 C72 86 76 80 76 70 C76 60 72 56 64 56 Z M64 62 C68 62 70 65 70 70 C70 75 68 80 64 80 C60 80 58 75 58 70 C58 65 60 62 64 62 Z"/>
+    <path fill-rule="evenodd" d="M80 56 L80 86 L90 86 L90 64 L100 80 L110 64 L110 86 L114 86 L114 56 L104 56 L100 64 L96 56 Z"/>
+  </g>
 </svg>
